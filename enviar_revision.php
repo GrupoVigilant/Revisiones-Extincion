@@ -45,14 +45,14 @@ $fechaMax = strtotime('-4 year', strtotime($fechaHoy));
 $fechaMax = strtotime('-335 day', strtotime($fechaMax));
 $fechaMax = date('Y-m-d',$fechaMax);
 
-$queryMail = 'INSERT INTO clientes SET email="'.$email.'", nombre_firma="'.$nombre_firma.'" WHERE id='.$id_cliente;
+$queryMail = 'UPDATE clientes SET email="'.$email.'", nombre_firma="'.$nombre_firma.'" WHERE id='.$id_cliente;
 $resultMail = mysqli_query($conexion,$queryMail);
 
 if ($conexion->query($queryMail) === TRUE) {
 	write_log('Página Enviar Revisión - Guardar Mail - id_cliente='.$id_cliente.' - email='.$email.' - nombre_firma='.$nombre_firma,'Info');
 }
 else {
-	write_log('Página Enviar Revisión - Guardar Mail - id_cliente='.$id_cliente.' - email='.$email.' - nombre_firma='.$nombre_firma.' - Error='$conexion->error,'Error');
+	write_log('Página Enviar Revisión - Guardar Mail - id_cliente='.$id_cliente.' - email='.$email.' - nombre_firma='.$nombre_firma.' - Error='.$conexion->error,'Error');
 }
 
 $PHPWord = new PHPWord();
