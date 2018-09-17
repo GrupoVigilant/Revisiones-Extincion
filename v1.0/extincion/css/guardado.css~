@@ -1,0 +1,20 @@
+body,td,th {
+	color: #FFF;
+}
+body {
+	background-color: #000;
+	background-image: url(../finaltablet.jpg);
+	background-repeat: no-repeat;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}

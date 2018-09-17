@@ -1,0 +1,139 @@
+[2018-09-12 08:49:48.000000 192.168.1.1 -  - Info ] Página Editar cliente - GET - id_cliente=5
+[2018-09-12 08:49:48.000000 192.168.1.1 -  - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 5
+[2018-09-12 08:49:48.000000 192.168.1.1 -  - Info ] Página Editar cliente - id_cliente=5 - nombre_cliente=TORRES MORENTE S.A. - CIF=A-18052001 - direccion=AVDA. INCAR, 8, PARQUE METROPOLITANO, 18130, ESCUZAR, GRANADA
+				- emplazamiento=EMPRESA - tecnico=602
+[2018-09-12 08:51:01.000000 192.168.1.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=5
+[2018-09-12 08:51:01.000000 192.168.1.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 5
+[2018-09-12 08:51:01.000000 192.168.1.1 - tecnico - Info ] Página Editar cliente - id_cliente=5 - nombre_cliente=TORRES MORENTE S.A. - CIF=A-18052001 - direccion=AVDA. INCAR, 8, PARQUE METROPOLITANO, 18130, ESCUZAR, GRANADA
+				- emplazamiento=EMPRESA - tecnico=602
+[2018-09-12 08:52:52.000000 192.168.1.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=5
+[2018-09-12 08:52:52.000000 192.168.1.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 5
+[2018-09-12 08:52:52.000000 192.168.1.1 - tecnico - Info ] Página Editar cliente - id_cliente=5 - nombre_cliente=TORRES MORENTE S.A. - CIF=A-18052001 - direccion=AVDA. INCAR, 8, PARQUE METROPOLITANO, 18130, ESCUZAR, GRANADA - emplazamiento=EMPRESA - tecnico=602
+[2018-09-12 08:53:22.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=98
+[2018-09-12 08:53:22.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 98
+[2018-09-12 08:53:22.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - id_cliente=98 - nombre_cliente=CP EDIFICIO COLISEO - CIF=H18738518 - direccion=PLAZA DEL TEATRO COLISEO S/N 18690 ALMU?ECAR (GRANADA) - emplazamiento=CP EDIFICIO COLISEO - tecnico=606
+[2018-09-12 08:59:02.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=104 - nombre_cliente=FUNDACION VIRGEN DEL CARMEN RESIDENCIA
+[2018-09-12 08:59:02.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 104
+[2018-09-12 08:59:02.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=FUNDACION VIRGEN DEL CARMEN RESIDENCIA
+[2018-09-12 08:59:23.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=104 - nombre_cliente=FUNDACION VIRGEN DEL CARMEN RESIDENCIA
+[2018-09-12 08:59:23.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 104
+[2018-09-12 08:59:23.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=FUNDACION VIRGEN DEL CARMEN RESIDENCIA
+[2018-09-12 08:59:40.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=104 - nombre_cliente=FUNDACION VIRGEN DEL CARMEN RESIDENCIA
+[2018-09-12 08:59:40.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 104
+[2018-09-12 08:59:40.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=FUNDACION VIRGEN DEL CARMEN RESIDENCIA
+[2018-09-12 09:00:13.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=104
+[2018-09-12 09:00:13.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 104
+[2018-09-12 09:00:13.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - id_cliente=104 - nombre_cliente=FUNDACION VIRGEN DEL CARMEN RESIDENCIA - CIF=G18493429 - direccion=CALLE ESCUELAS N?8 , 18640 CASTELL DE FERRO (GRANADA) - emplazamiento=FUNDACION VIRGEN DEL CARMEN RESIDENCIA - tecnico=
+[2018-09-12 09:06:21.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=105 - nombre_cliente=GUARDERIA PARQUE DE LOS SOLES S.L.
+[2018-09-12 09:06:21.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 105
+[2018-09-12 09:06:21.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=GUARDERIA PARQUE DE LOS SOLES S.L.
+[2018-09-12 09:06:35.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=105
+[2018-09-12 09:06:35.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 105
+[2018-09-12 09:06:35.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - id_cliente=105 - nombre_cliente=GUARDERIA PARQUE DE LOS SOLES S.L. - CIF=B19581339 - direccion=C/ MARCACHA S/N , 18620 ALHENDIN (GRANADA) - emplazamiento=GUARDERIA PARQUE DE LOS SOLES S.L. - tecnico=
+[2018-09-12 09:10:24.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=106
+[2018-09-12 09:10:24.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 106
+[2018-09-12 09:10:24.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - id_cliente=106 - nombre_cliente=FUNDACION ASILO LA PURISIMA - CIF=G18252429 - direccion=CALLE MOLINOS 8 , 18620 ALHENDIN (GRANADA) - emplazamiento=FUNDACION ASILO LA PURISIMA  - tecnico=
+[2018-09-12 09:10:57.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=106 - nombre_cliente=FUNDACION ASILO LA PURISIMA
+[2018-09-12 09:10:57.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 106
+[2018-09-12 09:10:57.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=FUNDACION ASILO LA PURISIMA
+[2018-09-12 09:15:55.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=106
+[2018-09-12 09:15:55.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 106
+[2018-09-12 09:15:55.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - id_cliente=106 - nombre_cliente=FUNDACION ASILO LA PURISIMA - CIF=G18252429 - direccion=CALLE MOLINOS 8 , 18620 ALHENDIN (GRANADA) - emplazamiento=FUNDACION ASILO LA PURISIMA  - tecnico=606
+[2018-09-12 09:18:45.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=107 - nombre_cliente=CIEMPIES, S.C.A.
+[2018-09-12 09:18:45.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 107
+[2018-09-12 09:18:45.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=CIEMPIES, S.C.A.
+[2018-09-12 09:19:16.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=107 - nombre_cliente=CIEMPIES, S.C.A.
+[2018-09-12 09:19:16.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 107
+[2018-09-12 09:19:16.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=CIEMPIES, S.C.A.
+[2018-09-12 09:19:33.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=107
+[2018-09-12 09:19:33.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 107
+[2018-09-12 09:19:33.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - id_cliente=107 - nombre_cliente=CIEMPIES, S.C.A. - CIF=F18496406 - direccion=PLANTA DE RECICLAJE Y COMPOSTAJE LOMA DE MANZANARES , 18620 ALHENDIN (GRANADA) - emplazamiento=PLANTA DE RECICLAJE ALHENDIN - tecnico=
+[2018-09-12 11:01:58.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=108 - nombre_cliente=CP EDIFICIO PATIO DE AMALIA
+[2018-09-12 11:01:58.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 108
+[2018-09-12 11:01:58.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=CP EDIFICIO PATIO DE AMALIA
+[2018-09-12 11:02:12.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=108
+[2018-09-12 11:02:12.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 108
+[2018-09-12 11:02:12.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - id_cliente=108 - nombre_cliente=CP EDIFICIO PATIO DE AMALIA - CIF=H19509942 - direccion=C/ AZAHAR S/N , 18656 LECRIN (GRANADA) - emplazamiento=CP EDIFICIO PATIO DE AMALIA  - tecnico=
+[2018-09-12 12:45:12.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=34 - nombre_cliente=ESCUELA ING. TEC. SUPERIOR INFORMATICA
+[2018-09-12 12:45:12.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 34
+[2018-09-12 12:45:12.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=ESCUELA ING. TEC. SUPERIOR INFORMATICA
+[2018-09-12 12:45:55.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=34 - nombre_cliente=ESCUELA ING. TEC. SUPERIOR INFORMATICA
+[2018-09-12 12:45:55.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 34
+[2018-09-12 12:45:55.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=ESCUELA ING. TEC. SUPERIOR INFORMATICA
+[2018-09-12 12:46:13.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=34
+[2018-09-12 12:46:13.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 34
+[2018-09-12 12:46:13.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - id_cliente=34 - nombre_cliente=ESCUELA ING. TEC. SUPERIOR INFORMATICA - CIF=Q-1818002-F - direccion=C/ PERIODISTA DANIEL SAUCEDO ARANDA, S/N, 18140, LA ZUBIA, GRANADA - emplazamiento=UNIVERSIDAD - EDIFICIOS A-B  - tecnico=
+[2018-09-12 13:52:32.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión- GET - id_revision=74 - id_cliente=34
+[2018-09-12 13:52:32.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 34
+[2018-09-12 13:52:32.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - nombre_cliente=ESCUELA ING. TEC. SUPERIOR INFORMATICA
+[2018-09-12 13:52:32.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 74
+[2018-09-12 13:52:32.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211868-Extintor-1.docx - nombreDoc=D211868-Extintor-1.docxtipo=Extintor
+[2018-09-12 13:52:32.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211868-Extintor-2.docx - nombreDoc=D211868-Extintor-2.docxtipo=Extintor
+[2018-09-12 13:52:32.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211868-Extintor-3.docx - nombreDoc=D211868-Extintor-3.docxtipo=Extintor
+[2018-09-12 13:52:32.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211868-Extintor-4.docx - nombreDoc=D211868-Extintor-4.docxtipo=Extintor
+[2018-09-12 13:52:32.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211868-Extintor-5.docx - nombreDoc=D211868-Extintor-5.docxtipo=Extintor
+[2018-09-12 13:52:32.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211868-Extintor-6.docx - nombreDoc=D211868-Extintor-6.docxtipo=Extintor
+[2018-09-12 17:02:04.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=87
+[2018-09-12 17:02:04.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 87
+[2018-09-12 17:02:04.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - id_cliente=87 - nombre_cliente=MARCO ANTONIO LOPEZ CID - CIF=74687494P - direccion=CALLE TENERIFE 15, 18570 DEIFONTES (GRANADA) - emplazamiento=VIVIENDA PARTICULAR - tecnico=603
+[2018-09-12 17:02:10.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=87 - nombre_cliente=MARCO ANTONIO LOPEZ CID
+[2018-09-12 17:02:10.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 87
+[2018-09-12 17:02:10.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=MARCO ANTONIO LOPEZ CID
+[2018-09-12 17:02:14.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=87
+[2018-09-12 17:02:14.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 87
+[2018-09-12 17:02:14.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - id_cliente=87 - nombre_cliente=MARCO ANTONIO LOPEZ CID - CIF=74687494P - direccion=CALLE TENERIFE 15, 18570 DEIFONTES (GRANADA) - emplazamiento=VIVIENDA PARTICULAR - tecnico=603
+[2018-09-12 17:02:39.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=87 - nombre_cliente=MARCO ANTONIO LOPEZ CID
+[2018-09-12 17:02:39.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 87
+[2018-09-12 17:02:39.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=MARCO ANTONIO LOPEZ CID
+[2018-09-12 17:03:24.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=87
+[2018-09-12 17:03:24.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 87
+[2018-09-12 17:03:24.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - id_cliente=87 - nombre_cliente=MARCO ANTONIO LOPEZ CID - CIF=74687494P - direccion=CALLE TENERIFE 15, 18570 DEIFONTES (GRANADA) - emplazamiento=VIVIENDA PARTICULAR - tecnico=603
+[2018-09-12 17:06:46.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=87
+[2018-09-12 17:06:46.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 87
+[2018-09-12 17:06:46.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - id_cliente=87 - nombre_cliente=MARCO ANTONIO LOPEZ CID - CIF=74687494P - direccion=CALLE TENERIFE 15, 18570 DEIFONTES (GRANADA) - emplazamiento=VIVIENDA PARTICULAR - tecnico=603
+[2018-09-12 17:08:38.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=87 - nombre_cliente=MARCO ANTONIO LOPEZ CID
+[2018-09-12 17:08:38.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 87
+[2018-09-12 17:08:38.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=MARCO ANTONIO LOPEZ CID
+[2018-09-12 17:09:17.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión- GET - id_revision=133 - id_cliente=71
+[2018-09-12 17:09:17.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 71
+[2018-09-12 17:09:17.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - nombre_cliente=OLIMPO 2000 S.L.
+[2018-09-12 17:09:17.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 133
+[2018-09-12 17:09:17.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D213307-Extintor-1.docx - nombreDoc=D213307-Extintor-1.docxtipo=Extintor
+[2018-09-12 17:09:39.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=71 - nombre_cliente=OLIMPO 2000 S.L.
+[2018-09-12 17:09:39.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 71
+[2018-09-12 17:09:39.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=OLIMPO 2000 S.L.
+[2018-09-12 17:11:56.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=71
+[2018-09-12 17:11:56.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 71
+[2018-09-12 17:11:56.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - id_cliente=71 - nombre_cliente=OLIMPO 2000 S.L. - CIF=B-18561852 - direccion=AUTOVIA A-44, SALIDA 1053, 18659, COZVIJAR, GRANADA - emplazamiento=EMPRESA - tecnico=
+[2018-09-12 17:45:10.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=109 - nombre_cliente=CLINICAS DOCTOR CANO, S.L.
+[2018-09-12 17:45:10.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 109
+[2018-09-12 17:45:10.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=CLINICAS DOCTOR CANO, S.L.
+[2018-09-12 17:54:25.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=109
+[2018-09-12 17:54:25.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 109
+[2018-09-12 17:54:25.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - id_cliente=109 - nombre_cliente=CLINICAS DOCTOR CANO, S.L. - CIF=B18616383 - direccion=CALLE FABRICA NUEVA  39-A , 18680 SALOBRE?A (GRANADA) - emplazamiento=CLINICAS DOCTOR CANO S.L. - tecnico=
+[2018-09-12 18:08:47.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=110 - nombre_cliente=CP ABEM HUMEYA
+[2018-09-12 18:08:47.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 110
+[2018-09-12 18:08:47.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=CP ABEM HUMEYA
+[2018-09-12 18:09:05.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - GET - id_cliente=110 - nombre_cliente=CP ABEM HUMEYA
+[2018-09-12 18:09:05.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 110
+[2018-09-12 18:09:05.000000 46.24.40.1 - tecnico - Info ] Página Registrar Revisión - nombre_cliente=CP ABEM HUMEYA
+[2018-09-12 18:09:59.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - GET - id_cliente=110
+[2018-09-12 18:09:59.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 110
+[2018-09-12 18:09:59.000000 46.24.40.1 - tecnico - Info ] Página Editar cliente - id_cliente=110 - nombre_cliente=CP ABEM HUMEYA - CIF=H18362335 - direccion=CALLE ABEN HUMEYA, 4 , 18680 SALOBRE?A (GRANADA) - emplazamiento=CP ABEM HUMEYA  - tecnico=
+[2018-09-12 19:10:49.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión- GET - id_revision=63 - id_cliente=29
+[2018-09-12 19:10:49.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 29
+[2018-09-12 19:10:49.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - nombre_cliente=EDIFICIO SAN JERONIMO
+[2018-09-12 19:10:49.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 63
+[2018-09-12 19:10:49.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D208489-Extintor-1.docx - nombreDoc=D208489-Extintor-1.docxtipo=Extintor
+[2018-09-12 19:10:49.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D208489-Extintor-2.docx - nombreDoc=D208489-Extintor-2.docxtipo=Extintor
+[2018-09-12 19:10:58.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión- GET - id_revision=63 - id_cliente=29
+[2018-09-12 19:10:58.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 29
+[2018-09-12 19:10:58.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - nombre_cliente=EDIFICIO SAN JERONIMO
+[2018-09-12 19:10:58.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 63
+[2018-09-12 19:10:58.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D208489-Extintor-1.docx - nombreDoc=D208489-Extintor-1.docxtipo=Extintor
+[2018-09-12 19:10:58.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D208489-Extintor-2.docx - nombreDoc=D208489-Extintor-2.docxtipo=Extintor
+[2018-09-12 19:12:26.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión- GET - id_revision=66 - id_cliente=30
+[2018-09-12 19:12:26.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 30
+[2018-09-12 19:12:26.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - nombre_cliente=EDITORIAL UNIVERSIDAD
+[2018-09-12 19:12:26.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 66
+[2018-09-12 19:12:26.000000 46.24.40.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D210402-Extintor-1.docx - nombreDoc=D210402-Extintor-1.docxtipo=Extintor

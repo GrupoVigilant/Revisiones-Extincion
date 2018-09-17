@@ -1,0 +1,51 @@
+<?php
+session_start();
+if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
+} else {
+echo "Esta pagina es solo para usuarios registrados.<br>";
+echo "<br><a href='index.html'>Login</a>";
+exit;
+}
+$now = time();
+$usuario = $_SESSION['username'];
+if($now > $_SESSION['expire']) {
+session_destroy();
+echo "Su sesion a terminado,
+<a href='index.html'>Necesita Hacer Login</a>";
+exit;
+}
+?>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="es">
+<html>
+<head>
+<style type="text/css">
+body {width: 100%;}
+</style>
+</head>
+<body>
+
+<h1 style="text-align: center;">Revisiones Extinci&oacute;n</h1>
+<h2 style="text-align: center;">Registrar Usuario</h2>
+
+<form action="registrar.php" id="login" method="post" name="registrar" target="_self">
+<div style="text-align:center;">
+<table style="margin: 0 auto;" border="0" cellpadding="1" cellspacing="1" style="width:500px;">
+	<tbody>
+		<tr>
+			<td>Usuario</td>
+			<td><input name="usuario" type="text" /></td>
+		</tr>
+		<tr>
+			<td>Contrase&ntilde;a</td>
+			<td><input name="contrasena" type="password" /></td>
+		</tr>
+	</tbody>
+</table>
+
+<p style="text-align: center;"><input name="entrar" type="submit" value="Registrar" /></p>
+</div>
+</form>
+
+<p>&nbsp;</p>
+</body>
+</html>

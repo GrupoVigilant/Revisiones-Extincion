@@ -1,0 +1,76 @@
+[2018-09-10 14:27:06.000000 192.168.1.1  - Info ] Página Error de inicio de sesi&oacute;n - id_revision=18 - id_cliente=5
+[2018-09-10 14:27:39.000000 192.168.1.1  - Info ] Página Error de inicio de sesi&oacute;n - id_revision=18 - id_cliente=5
+[2018-09-10 14:27:39.000000 192.168.1.1  - Info ] Página Listado Documentos Revisión - nombre_cliente=TORRES MORENTE S.A.
+[2018-09-10 14:27:39.000000 192.168.1.1  - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-BIE-1.docx - nombreDoc=D213085-BIE-1.docxtipo=BIE
+[2018-09-10 14:27:39.000000 192.168.1.1  - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-6.docx - nombreDoc=D213085-Extintor-6.docxtipo=Extintor
+[2018-09-10 14:27:39.000000 192.168.1.1  - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-5.docx - nombreDoc=D213085-Extintor-5.docxtipo=Extintor
+[2018-09-10 14:27:39.000000 192.168.1.1  - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-4.docx - nombreDoc=D213085-Extintor-4.docxtipo=Extintor
+[2018-09-10 14:27:39.000000 192.168.1.1  - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-3.docx - nombreDoc=D213085-Extintor-3.docxtipo=Extintor
+[2018-09-10 14:27:39.000000 192.168.1.1  - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-2.docx - nombreDoc=D213085-Extintor-2.docxtipo=Extintor
+[2018-09-10 14:27:39.000000 192.168.1.1  - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-1.docx - nombreDoc=D213085-Extintor-1.docxtipo=Extintor
+[2018-09-10 14:28:20.000000 192.168.1.1 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=18 - id_cliente=5
+[2018-09-10 14:28:20.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - nombre_cliente=TORRES MORENTE S.A.
+[2018-09-10 14:28:20.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-BIE-1.docx - nombreDoc=D213085-BIE-1.docxtipo=BIE
+[2018-09-10 14:28:20.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-6.docx - nombreDoc=D213085-Extintor-6.docxtipo=Extintor
+[2018-09-10 14:28:20.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-5.docx - nombreDoc=D213085-Extintor-5.docxtipo=Extintor
+[2018-09-10 14:28:20.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-4.docx - nombreDoc=D213085-Extintor-4.docxtipo=Extintor
+[2018-09-10 14:28:20.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-3.docx - nombreDoc=D213085-Extintor-3.docxtipo=Extintor
+[2018-09-10 14:28:20.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-2.docx - nombreDoc=D213085-Extintor-2.docxtipo=Extintor
+[2018-09-10 14:28:20.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-1.docx - nombreDoc=D213085-Extintor-1.docxtipo=Extintor
+[2018-09-10 14:28:23.000000 192.168.1.1 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=18 - id_cliente=5
+[2018-09-10 14:28:23.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - nombre_cliente=TORRES MORENTE S.A.
+[2018-09-10 14:28:23.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-BIE-1.docx - nombreDoc=D213085-BIE-1.docxtipo=BIE
+[2018-09-10 14:28:23.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-6.docx - nombreDoc=D213085-Extintor-6.docxtipo=Extintor
+[2018-09-10 14:28:23.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-5.docx - nombreDoc=D213085-Extintor-5.docxtipo=Extintor
+[2018-09-10 14:28:23.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-4.docx - nombreDoc=D213085-Extintor-4.docxtipo=Extintor
+[2018-09-10 14:28:23.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-3.docx - nombreDoc=D213085-Extintor-3.docxtipo=Extintor
+[2018-09-10 14:28:23.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-2.docx - nombreDoc=D213085-Extintor-2.docxtipo=Extintor
+[2018-09-10 14:28:23.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213085-Extintor-1.docx - nombreDoc=D213085-Extintor-1.docxtipo=Extintor
+[2018-09-10 16:17:43.000000 31.4.220.39 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=182 - id_cliente=90
+[2018-09-10 16:17:43.000000 31.4.220.39 - Info ] Página Listado Documentos Revisión - nombre_cliente=I.E.S. BULYANA
+[2018-09-10 16:17:43.000000 31.4.220.39 - Info ] Página Listado Documentos Revisión - ruta=./partes/D214395-Extintor-2.docx - nombreDoc=D214395-Extintor-2.docxtipo=Extintor
+[2018-09-10 16:17:43.000000 31.4.220.39 - Info ] Página Listado Documentos Revisión - ruta=./partes/D214395-Extintor-1.docx - nombreDoc=D214395-Extintor-1.docxtipo=Extintor
+[2018-09-10 17:19:15.000000 46.24.40.1 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=192 - id_cliente=96
+[2018-09-10 17:19:15.000000 46.24.40.1 - Info ] Página Listado Documentos Revisión - nombre_cliente=VELASCO CHAVES JOSE FRANCISCO
+[2018-09-10 17:19:15.000000 46.24.40.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D214410-Extintor-1.docx - nombreDoc=D214410-Extintor-1.docxtipo=Extintor
+[2018-09-10 17:19:36.000000 46.24.40.1 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=192 - id_cliente=96
+[2018-09-10 17:19:36.000000 46.24.40.1 - Info ] Página Listado Documentos Revisión - nombre_cliente=VELASCO CHAVES JOSE FRANCISCO
+[2018-09-10 17:19:36.000000 46.24.40.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D214410-Extintor-1.docx - nombreDoc=D214410-Extintor-1.docxtipo=Extintor
+[2018-09-10 17:20:29.000000 31.4.220.39 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=192 - id_cliente=96
+[2018-09-10 17:20:29.000000 31.4.220.39 - Info ] Página Listado Documentos Revisión - nombre_cliente=VELASCO CHAVES JOSE FRANCISCO
+[2018-09-10 17:20:29.000000 31.4.220.39 - Info ] Página Listado Documentos Revisión - ruta=./partes/D214410-Extintor-1.docx - nombreDoc=D214410-Extintor-1.docxtipo=Extintor
+[2018-09-10 17:21:04.000000 31.4.220.39 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=192 - id_cliente=96
+[2018-09-10 17:21:04.000000 31.4.220.39 - Info ] Página Listado Documentos Revisión - nombre_cliente=VELASCO CHAVES JOSE FRANCISCO
+[2018-09-10 17:21:04.000000 31.4.220.39 - Info ] Página Listado Documentos Revisión - ruta=./partes/D214410-Extintor-1.docx - nombreDoc=D214410-Extintor-1.docxtipo=Extintor
+[2018-09-10 17:21:08.000000 46.24.40.1 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=192 - id_cliente=96
+[2018-09-10 17:21:08.000000 46.24.40.1 - Info ] Página Listado Documentos Revisión - nombre_cliente=VELASCO CHAVES JOSE FRANCISCO
+[2018-09-10 17:21:08.000000 46.24.40.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D214410-Extintor-1.docx - nombreDoc=D214410-Extintor-1.docxtipo=Extintor
+[2018-09-10 17:23:50.000000 31.4.220.39 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=192 - id_cliente=96
+[2018-09-10 17:23:50.000000 31.4.220.39 - Info ] Página Listado Documentos Revisión - nombre_cliente=VELASCO CHAVES JOSE FRANCISCO
+[2018-09-10 17:23:50.000000 31.4.220.39 - Info ] Página Listado Documentos Revisión - ruta=./partes/D214410-Extintor-1.docx - nombreDoc=D214410-Extintor-1.docxtipo=Extintor
+[2018-09-10 17:26:35.000000 46.24.40.1 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=78 - id_cliente=36
+[2018-09-10 17:26:35.000000 46.24.40.1 - Info ] Página Listado Documentos Revisión - nombre_cliente=ESTACION ORNITOLOGICA DE PADUL
+[2018-09-10 17:26:35.000000 46.24.40.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D201261-Extintor-1.docx - nombreDoc=D201261-Extintor-1.docxtipo=Extintor
+[2018-09-10 17:29:04.000000 31.4.220.39 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=192 - id_cliente=96
+[2018-09-10 17:29:04.000000 31.4.220.39 - Info ] Página Listado Documentos Revisión - nombre_cliente=VELASCO CHAVES JOSE FRANCISCO
+[2018-09-10 17:29:04.000000 31.4.220.39 - Info ] Página Listado Documentos Revisión - ruta=./partes/D214410-Extintor-1.docx - nombreDoc=D214410-Extintor-1.docxtipo=Extintor
+[2018-09-10 17:29:24.000000 192.168.1.1 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=192 - id_cliente=96
+[2018-09-10 17:29:24.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - nombre_cliente=VELASCO CHAVES JOSE FRANCISCO
+[2018-09-10 17:29:24.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D214410-Extintor-1.docx - nombreDoc=D214410-Extintor-1.docxtipo=Extintor
+[2018-09-10 17:34:35.000000 192.168.1.1 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=192 - id_cliente=96
+[2018-09-10 17:34:35.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - nombre_cliente=VELASCO CHAVES JOSE FRANCISCO
+[2018-09-10 17:34:35.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D214410-Extintor-1.docx - nombreDoc=D214410-Extintor-1.docxtipo=Extintor
+[2018-09-10 17:34:36.000000 192.168.1.1 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=192 - id_cliente=96
+[2018-09-10 17:34:36.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - nombre_cliente=VELASCO CHAVES JOSE FRANCISCO
+[2018-09-10 17:34:36.000000 192.168.1.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D214410-Extintor-1.docx - nombreDoc=D214410-Extintor-1.docxtipo=Extintor
+[2018-09-10 17:34:39.000000 31.4.220.39 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=192 - id_cliente=96
+[2018-09-10 17:34:39.000000 31.4.220.39 - Info ] Página Listado Documentos Revisión - nombre_cliente=VELASCO CHAVES JOSE FRANCISCO
+[2018-09-10 17:34:39.000000 31.4.220.39 - Info ] Página Listado Documentos Revisión - ruta=./partes/D214410-Extintor-1.docx - nombreDoc=D214410-Extintor-1.docxtipo=Extintor
+[2018-09-10 17:40:30.000000 31.4.220.39 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=182 - id_cliente=90
+[2018-09-10 17:40:30.000000 31.4.220.39 - Info ] Página Listado Documentos Revisión - nombre_cliente=I.E.S. BULYANA
+[2018-09-10 17:40:30.000000 31.4.220.39 - Info ] Página Listado Documentos Revisión - ruta=./partes/D214395-Extintor-2.docx - nombreDoc=D214395-Extintor-2.docxtipo=Extintor
+[2018-09-10 17:40:30.000000 31.4.220.39 - Info ] Página Listado Documentos Revisión - ruta=./partes/D214395-Extintor-1.docx - nombreDoc=D214395-Extintor-1.docxtipo=Extintor
+[2018-09-10 17:56:58.000000 46.24.40.1 - Info ] Página Error de inicio de sesi&oacute;n - id_revision=119 - id_cliente=62
+[2018-09-10 17:56:58.000000 46.24.40.1 - Info ] Página Listado Documentos Revisión - nombre_cliente=I.E.S. ALONSO CANO
+[2018-09-10 17:56:58.000000 46.24.40.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D201267-Extintor-1.docx - nombreDoc=D201267-Extintor-1.docxtipo=Extintor
+[2018-09-10 17:56:58.000000 46.24.40.1 - Info ] Página Listado Documentos Revisión - ruta=./partes/D201267-Extintor-2.docx - nombreDoc=D201267-Extintor-2.docxtipo=Extintor

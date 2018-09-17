@@ -1,0 +1,16 @@
+﻿/*
+** Hoja de estilo principal.
+** 
+** uid:		eferron
+** fecha:	14.08.2010
+*/
+
+body 
+{
+	background-color: #000;
+}
+
+body,td,th 
+{
+	color: #FFF;
+}
