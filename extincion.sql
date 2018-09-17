@@ -20,7 +20,7 @@ CREATE TABLE `clientes` (
   `fechamod` timestamp NULL DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,
   `nombre_firma` varchar(255) COLLATE latin1_spanish_ci DEFAULT NULL,
   PRIMARY KEY (`Id`)
-) ENGINE=MyISAM AUTO_INCREMENT=114 DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
 
 #
 # Structure for table "dispositivos"
@@ -44,7 +44,7 @@ CREATE TABLE `dispositivos` (
   `fechamod` timestamp NULL DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,
   `fecha_nulo` date DEFAULT NULL,
   PRIMARY KEY (`Id`)
-) ENGINE=MyISAM AUTO_INCREMENT=2666 DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
 
 #
 # Structure for table "dispositivos_cont"
@@ -61,7 +61,7 @@ CREATE TABLE `dispositivos_cont` (
   `fechacre` timestamp NULL DEFAULT CURRENT_TIMESTAMP,
   `fechamod` timestamp NULL DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,
   PRIMARY KEY (`Id`)
-) ENGINE=MyISAM AUTO_INCREMENT=218 DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
 
 #
 # Structure for table "documentos"
@@ -76,25 +76,7 @@ CREATE TABLE `documentos` (
   `fechacre` timestamp NULL DEFAULT CURRENT_TIMESTAMP,
   `fechamod` timestamp NULL DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,
   PRIMARY KEY (`Id`)
-) ENGINE=MyISAM AUTO_INCREMENT=343 DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
-
-#
-# Structure for table "pruebas"
-#
-
-DROP TABLE IF EXISTS `pruebas`;
-CREATE TABLE `pruebas` (
-  `Id` int(11) NOT NULL AUTO_INCREMENT,
-  `numero` varchar(255) COLLATE latin1_spanish_ci DEFAULT NULL,
-  `equipo` varchar(255) COLLATE latin1_spanish_ci DEFAULT NULL,
-  `timbre` varchar(255) COLLATE latin1_spanish_ci DEFAULT NULL,
-  `fabricacion` date DEFAULT NULL,
-  `retimbrado` date DEFAULT NULL,
-  `ubicacion` varchar(255) COLLATE latin1_spanish_ci DEFAULT NULL,
-  `intervencion` varchar(255) COLLATE latin1_spanish_ci DEFAULT NULL,
-  `estado` varchar(255) COLLATE latin1_spanish_ci DEFAULT NULL,
-  PRIMARY KEY (`Id`)
-) ENGINE=MyISAM AUTO_INCREMENT=408 DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
 
 #
 # Structure for table "revisiones"
@@ -115,7 +97,7 @@ CREATE TABLE `revisiones` (
   `fechacre` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   `fechamod` timestamp NULL DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,
   PRIMARY KEY (`Id`)
-) ENGINE=MyISAM AUTO_INCREMENT=243 DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
 
 #
 # Structure for table "tipos_dispositivos"
@@ -126,7 +108,7 @@ CREATE TABLE `tipos_dispositivos` (
   `Id` int(11) NOT NULL AUTO_INCREMENT,
   `descripcion` varchar(255) COLLATE latin1_spanish_ci DEFAULT NULL,
   PRIMARY KEY (`Id`)
-) ENGINE=MyISAM AUTO_INCREMENT=6 DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
 
 #
 # Structure for table "usuarios"
@@ -140,4 +122,4 @@ CREATE TABLE `usuarios` (
   `fechacre` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
   `fechamod` timestamp NULL DEFAULT NULL ON UPDATE CURRENT_TIMESTAMP,
   PRIMARY KEY (`Id`)
-) ENGINE=MyISAM AUTO_INCREMENT=10 DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
