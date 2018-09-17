@@ -1,0 +1,536 @@
+[2018-09-14 07:20:03.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=5 - esEditar=0
+[2018-09-14 07:20:07.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=101 - esEditar=0
+[2018-09-14 07:20:14.000000 192.168.1.1 - tecnico - Info ] Página Reabrir Revisión - GET - id_cliente=101 - id_revision=242
+[2018-09-14 07:20:15.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=101 - esEditar=0
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - GET - id_cliente=101 - id_revision=242 - tipo_revision=1 - email= - nombre_firma= 
+- obs_extintor= - obs_bie= - obs_deteccion= - obs_extincion= - obs_bateria=
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id FROM dispositivos WHERE id_cliente = 101 AND subtipo = 1 AND id > 0 ORDER BY numero ASC
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - pagTotales=2
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 101
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - id_cliente=101 - nombre_cliente=SIERVAS DE SAN JOSE CASA MADRE - CIF=R1800574D - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA)
+				- emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT n_revision FROM revisiones WHERE id = 242
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - n_revision=D213405
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id, tipo_dispositivo, n_timbre, f_fabricacion, retimbrado, ubicacion, intervencion, estado, numero FROM dispositivos WHERE 
+					id_cliente = 101 AND subtipo = 1 AND numero >= 0 ORDER BY numero ASC LIMIT 19
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - nombre_titular=SIERVAS DE SAN JOSE CASA MADRE - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA) - emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - obs_extintor=
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Documento Guardado
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=INSERT INTO documentos (id_revision, ruta, tipo)
+					VALUES ("242", "./partes/D213405-Extintor-1.docx", "Extintor")
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardando documento ./partes/D213405-Extintor-1.docx
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id, tipo_dispositivo, n_timbre, f_fabricacion, retimbrado, ubicacion, intervencion, estado, numero FROM dispositivos WHERE 
+					id_cliente = 101 AND subtipo = 1 AND numero >= 18 ORDER BY numero ASC LIMIT 19
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - nombre_titular=SIERVAS DE SAN JOSE CASA MADRE - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA) - emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - obs_extintor=
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Documento Guardado
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=INSERT INTO documentos (id_revision, ruta, tipo)
+					VALUES ("242", "./partes/D213405-Extintor-2.docx", "Extintor")
+[2018-09-14 07:20:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardando documento ./partes/D213405-Extintor-2.docx
+[2018-09-14 07:20:27.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Email Enviado ./partes/D213405-Extintor-2.docx
+[2018-09-14 07:20:27.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Revisión Finalizada - id_revision=242 - n_revision=D213405
+[2018-09-14 07:22:10.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=5 - esEditar=0
+[2018-09-14 07:22:14.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=101 - esEditar=0
+[2018-09-14 07:22:33.000000 192.168.1.1 - tecnico - Info ] Página Reabrir Revisión - GET - id_cliente=101 - id_revision=242
+[2018-09-14 07:22:34.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=101 - esEditar=0
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - GET - id_cliente=101 - id_revision=242 - tipo_revision=1 - email=cajarssjeconomia@gmail.com - nombre_firma=SIERVAS DE SAN JOSE --CASA DE MADRES MAYORES-NIF:R1800574D 
+- obs_extintor= - obs_bie= - obs_deteccion= - obs_extincion= - obs_bateria=
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id FROM dispositivos WHERE id_cliente = 101 AND subtipo = 1 AND id > 0 ORDER BY numero ASC
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - pagTotales=2
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 101
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - id_cliente=101 - nombre_cliente=SIERVAS DE SAN JOSE CASA MADRE - CIF=R1800574D - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA)
+				- emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT n_revision FROM revisiones WHERE id = 242
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - n_revision=D213405
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id, tipo_dispositivo, n_timbre, f_fabricacion, retimbrado, ubicacion, intervencion, estado, numero FROM dispositivos WHERE 
+					id_cliente = 101 AND subtipo = 1 AND numero >= 0 ORDER BY numero ASC LIMIT 19
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - nombre_titular=SIERVAS DE SAN JOSE CASA MADRE - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA) - emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - obs_extintor=
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Documento Guardado
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=INSERT INTO documentos (id_revision, ruta, tipo)
+					VALUES ("242", "./partes/D213405-Extintor-1.docx", "Extintor")
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardando documento ./partes/D213405-Extintor-1.docx
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id, tipo_dispositivo, n_timbre, f_fabricacion, retimbrado, ubicacion, intervencion, estado, numero FROM dispositivos WHERE 
+					id_cliente = 101 AND subtipo = 1 AND numero >= 20 ORDER BY numero ASC LIMIT 19
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - nombre_titular=SIERVAS DE SAN JOSE CASA MADRE - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA) - emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - obs_extintor=
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Documento Guardado
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=INSERT INTO documentos (id_revision, ruta, tipo)
+					VALUES ("242", "./partes/D213405-Extintor-2.docx", "Extintor")
+[2018-09-14 07:24:09.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardando documento ./partes/D213405-Extintor-2.docx
+[2018-09-14 07:24:10.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Email Enviado ./partes/D213405-Extintor-2.docx
+[2018-09-14 07:24:10.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Revisión Finalizada - id_revision=242 - n_revision=D213405
+[2018-09-14 08:21:28.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=101 - esEditar=0
+[2018-09-14 08:21:33.000000 192.168.1.1 - tecnico - Info ] Página Reabrir Revisión - GET - id_cliente=101 - id_revision=242
+[2018-09-14 08:21:34.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=101 - esEditar=0
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - GET - id_cliente=101 - id_revision=242 - tipo_revision=1 - email=cajarssjeconomia@gmail.com - nombre_firma=SIERVAS DE SAN JOSE --CASA DE MADRES MAYORES-NIF:R1800574D 
+- obs_extintor= - obs_bie= - obs_deteccion= - obs_extincion= - obs_bateria=
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id FROM dispositivos WHERE id_cliente = 101 AND subtipo = 1 AND id > 0 ORDER BY numero ASC
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - pagTotales=2
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 101
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - id_cliente=101 - nombre_cliente=SIERVAS DE SAN JOSE CASA MADRE - CIF=R1800574D - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA)
+				- emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT n_revision FROM revisiones WHERE id = 242
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - n_revision=D213405
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id, tipo_dispositivo, n_timbre, f_fabricacion, retimbrado, ubicacion, intervencion, estado, numero FROM dispositivos WHERE 
+					id_cliente = 101 AND subtipo = 1 AND numero >= 0 ORDER BY numero ASC LIMIT 19
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - nombre_titular=SIERVAS DE SAN JOSE CASA MADRE - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA) - emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - obs_extintor=
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Documento Guardado
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=INSERT INTO documentos (id_revision, ruta, tipo)
+					VALUES ("242", "./partes/D213405-Extintor-1.docx", "Extintor")
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardando documento ./partes/D213405-Extintor-1.docx
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id, tipo_dispositivo, n_timbre, f_fabricacion, retimbrado, ubicacion, intervencion, estado, numero FROM dispositivos WHERE 
+					id_cliente = 101 AND subtipo = 1 AND numero >= 20 ORDER BY numero ASC LIMIT 19
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - nombre_titular=SIERVAS DE SAN JOSE CASA MADRE - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA) - emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - obs_extintor=
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Documento Guardado
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=INSERT INTO documentos (id_revision, ruta, tipo)
+					VALUES ("242", "./partes/D213405-Extintor-2.docx", "Extintor")
+[2018-09-14 08:24:38.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardando documento ./partes/D213405-Extintor-2.docx
+[2018-09-14 08:24:39.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Email Enviado ./partes/D213405-Extintor-2.docx
+[2018-09-14 08:24:39.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Revisión Finalizada - id_revision=242 - n_revision=D213405
+[2018-09-14 08:28:26.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión- GET - id_revision=242 - id_cliente=101
+[2018-09-14 08:28:26.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 101
+[2018-09-14 08:28:26.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - nombre_cliente=SIERVAS DE SAN JOSE CASA MADRE
+[2018-09-14 08:28:26.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 242
+[2018-09-14 08:28:26.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-14 08:28:26.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-14 08:28:26.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-14 08:28:26.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-14 08:28:26.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-14 08:28:26.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-14 08:31:29.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión- GET - id_revision=242 - id_cliente=101
+[2018-09-14 08:31:29.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 101
+[2018-09-14 08:31:29.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - nombre_cliente=SIERVAS DE SAN JOSE CASA MADRE
+[2018-09-14 08:31:29.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 242
+[2018-09-14 08:31:29.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-14 08:31:29.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-14 08:31:29.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-14 08:31:29.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-14 08:31:29.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-14 08:31:29.000000 31.4.221.73 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-14 08:33:57.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=90 - esEditar=0
+[2018-09-14 08:34:00.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión- GET - id_revision=182 - id_cliente=90
+[2018-09-14 08:34:00.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 90
+[2018-09-14 08:34:00.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - nombre_cliente=I.E.S. BULYANA
+[2018-09-14 08:34:00.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 182
+[2018-09-14 08:34:00.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D214395-Extintor-2.docx - nombreDoc=D214395-Extintor-2.docxtipo=Extintor
+[2018-09-14 08:34:00.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D214395-Extintor-1.docx - nombreDoc=D214395-Extintor-1.docxtipo=Extintor
+[2018-09-14 08:34:16.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=90 - esEditar=0
+[2018-09-14 08:34:51.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=101 - esEditar=0
+[2018-09-14 08:34:53.000000 192.168.1.1 - tecnico - Info ] Página Reabrir Revisión - GET - id_cliente=101 - id_revision=242
+[2018-09-14 08:34:54.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=101 - esEditar=0
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - GET - id_cliente=101 - id_revision=242 - tipo_revision=1 - email= - nombre_firma=SIERVAS DE SAN JOSE --CASA DE MADRES MAYORES-NIF:R1800574D <> 
+- obs_extintor= - obs_bie= - obs_deteccion= - obs_extincion= - obs_bateria=
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id FROM dispositivos WHERE id_cliente = 101 AND subtipo = 1 AND id > 0 ORDER BY numero ASC
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - pagTotales=2
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 101
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - id_cliente=101 - nombre_cliente=SIERVAS DE SAN JOSE CASA MADRE - CIF=R1800574D - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA)
+				- emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT n_revision FROM revisiones WHERE id = 242
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - n_revision=D213405
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id, tipo_dispositivo, n_timbre, f_fabricacion, retimbrado, ubicacion, intervencion, estado, numero FROM dispositivos WHERE 
+					id_cliente = 101 AND subtipo = 1 AND numero >= 0 ORDER BY numero ASC LIMIT 19
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - nombre_titular=SIERVAS DE SAN JOSE CASA MADRE - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA) - emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - obs_extintor=
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Documento Guardado
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=INSERT INTO documentos (id_revision, ruta, tipo)
+					VALUES ("242", "./partes/D213405-Extintor-1.docx", "Extintor")
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardando documento ./partes/D213405-Extintor-1.docx
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id, tipo_dispositivo, n_timbre, f_fabricacion, retimbrado, ubicacion, intervencion, estado, numero FROM dispositivos WHERE 
+					id_cliente = 101 AND subtipo = 1 AND numero >= 20 ORDER BY numero ASC LIMIT 19
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - nombre_titular=SIERVAS DE SAN JOSE CASA MADRE - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA) - emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - obs_extintor=
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Documento Guardado
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=INSERT INTO documentos (id_revision, ruta, tipo)
+					VALUES ("242", "./partes/D213405-Extintor-2.docx", "Extintor")
+[2018-09-14 08:35:47.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardando documento ./partes/D213405-Extintor-2.docx
+[2018-09-14 08:35:48.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Email Enviado ./partes/D213405-Extintor-2.docx
+[2018-09-14 08:35:48.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Revisión Finalizada - id_revision=242 - n_revision=D213405
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - GET - id_cliente=101 - id_revision=242 - tipo_revision=1 - email=cajarssjeconomia@gmail.com - nombre_firma=SIERVAS DE SAN JOSE --CASA DE MADRES MAYORES-NIF:R1800574D 
+- obs_extintor=Revisión definitiva - obs_bie= - obs_deteccion= - obs_extincion= - obs_bateria=
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id FROM dispositivos WHERE id_cliente = 101 AND subtipo = 1 AND id > 0 ORDER BY numero ASC
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - pagTotales=2
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 101
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - id_cliente=101 - nombre_cliente=SIERVAS DE SAN JOSE CASA MADRE - CIF=R1800574D - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA)
+				- emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT n_revision FROM revisiones WHERE id = 242
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - n_revision=D213405
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id, tipo_dispositivo, n_timbre, f_fabricacion, retimbrado, ubicacion, intervencion, estado, numero FROM dispositivos WHERE 
+					id_cliente = 101 AND subtipo = 1 AND numero >= 0 ORDER BY numero ASC LIMIT 19
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - nombre_titular=SIERVAS DE SAN JOSE CASA MADRE - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA) - emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - obs_extintor=Revisión definitiva
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Documento Guardado
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=INSERT INTO documentos (id_revision, ruta, tipo)
+					VALUES ("242", "./partes/D213405-Extintor-1.docx", "Extintor")
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardando documento ./partes/D213405-Extintor-1.docx
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id, tipo_dispositivo, n_timbre, f_fabricacion, retimbrado, ubicacion, intervencion, estado, numero FROM dispositivos WHERE 
+					id_cliente = 101 AND subtipo = 1 AND numero >= 20 ORDER BY numero ASC LIMIT 19
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - nombre_titular=SIERVAS DE SAN JOSE CASA MADRE - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA) - emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - obs_extintor=Revisión definitiva
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Documento Guardado
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=INSERT INTO documentos (id_revision, ruta, tipo)
+					VALUES ("242", "./partes/D213405-Extintor-2.docx", "Extintor")
+[2018-09-14 08:36:26.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardando documento ./partes/D213405-Extintor-2.docx
+[2018-09-14 08:36:28.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Email Enviado ./partes/D213405-Extintor-2.docx
+[2018-09-14 08:36:28.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Revisión Finalizada - id_revision=242 - n_revision=D213405
+[2018-09-14 10:58:47.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=101 - esEditar=0
+[2018-09-14 10:58:52.000000 192.168.1.1 - tecnico - Info ] Página Reabrir Revisión - GET - id_cliente=101 - id_revision=242
+[2018-09-14 10:58:53.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=101 - esEditar=0
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - GET - id_cliente=101 - id_revision=242 - tipo_revision=1 - email=cajarssjeconomia@gmail.com - nombre_firma=SIERVAS DE SAN JOSE --CASA DE MADRES MAYORES-NIF:R1800574D 
+- obs_extintor=Se ha solventado el problema de fecha de retimbrado en los extintores 7 y 8 que salían erróneos. Este es el acta definitiva. - obs_bie= - obs_deteccion= - obs_extincion= - obs_bateria=
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id FROM dispositivos WHERE id_cliente = 101 AND subtipo = 1 AND id > 0 ORDER BY numero ASC
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - pagTotales=2
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 101
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - id_cliente=101 - nombre_cliente=SIERVAS DE SAN JOSE CASA MADRE - CIF=R1800574D - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA)
+				- emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT n_revision FROM revisiones WHERE id = 242
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - n_revision=D213405
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id, tipo_dispositivo, n_timbre, f_fabricacion, retimbrado, ubicacion, intervencion, estado, numero FROM dispositivos WHERE 
+					id_cliente = 101 AND subtipo = 1 AND numero >= 0 ORDER BY numero ASC LIMIT 19
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - nombre_titular=SIERVAS DE SAN JOSE CASA MADRE - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA) - emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - obs_extintor=Se ha solventado el problema de fecha de retimbrado en los extintores 7 y 8 que salían erróneos. Este es el acta definitiva.
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Documento Guardado
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=INSERT INTO documentos (id_revision, ruta, tipo)
+					VALUES ("242", "./partes/D213405-Extintor-1.docx", "Extintor")
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardando documento ./partes/D213405-Extintor-1.docx
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id, tipo_dispositivo, n_timbre, f_fabricacion, retimbrado, ubicacion, intervencion, estado, numero FROM dispositivos WHERE 
+					id_cliente = 101 AND subtipo = 1 AND numero >= 20 ORDER BY numero ASC LIMIT 19
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - nombre_titular=SIERVAS DE SAN JOSE CASA MADRE - direccion=PLAZA SAN AGUSTIN DEL RETIRO, 17 , 18198 CAJAR (GRANADA) - emplazamiento=SIERVAS DE SAN JOSE CASA MADRE  - tecnico=603
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - obs_extintor=Se ha solventado el problema de fecha de retimbrado en los extintores 7 y 8 que salían erróneos. Este es el acta definitiva.
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Valores
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Escribiendo Campos en Blanco
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 2 - Documento Guardado
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=INSERT INTO documentos (id_revision, ruta, tipo)
+					VALUES ("242", "./partes/D213405-Extintor-2.docx", "Extintor")
+[2018-09-14 11:00:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardando documento ./partes/D213405-Extintor-2.docx
+[2018-09-14 11:00:45.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Email Enviado ./partes/D213405-Extintor-2.docx
+[2018-09-14 11:00:45.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Revisión Finalizada - id_revision=242 - n_revision=D213405
+[2018-09-14 11:10:08.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=112 - esEditar=0
+[2018-09-14 11:10:14.000000 192.168.1.1 - tecnico - Info ] Página Reabrir Revisión - GET - id_cliente=112 - id_revision=237
+[2018-09-14 11:10:15.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=112 - esEditar=0
+[2018-09-14 11:44:44.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=112 - esEditar=0
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - GET - id_cliente=112 - id_revision=237 - tipo_revision=1 - email= - nombre_firma= 
+- obs_extintor= - obs_bie= - obs_deteccion= - obs_extincion= - obs_bateria=
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id FROM dispositivos WHERE id_cliente = 112 AND subtipo = 1 AND id > 0 ORDER BY numero ASC
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - pagTotales=1
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 112
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - id_cliente=112 - nombre_cliente=VIGILANT S.A. - CIF=A-30085401 - direccion=C/ PARAGUAY, PARC. 8/9, 30820, ALCANTARILLA, MURCIA
+				- emplazamiento=EMPRESA - tecnico=
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT n_revision FROM revisiones WHERE id = 237
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - n_revision=D999999
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id, tipo_dispositivo, n_timbre, f_fabricacion, retimbrado, ubicacion, intervencion, estado, numero FROM dispositivos WHERE 
+					id_cliente = 112 AND subtipo = 1 AND numero >= 0 ORDER BY numero ASC LIMIT 19
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - nombre_titular=VIGILANT S.A. - direccion=C/ PARAGUAY, PARC. 8/9, 30820, ALCANTARILLA, MURCIA - emplazamiento=EMPRESA - tecnico=
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - obs_extintor=
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Documento Guardado
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=INSERT INTO documentos (id_revision, ruta, tipo)
+					VALUES ("237", "./partes/D999999-Extintor-1.docx", "Extintor")
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardando documento ./partes/D999999-Extintor-1.docx
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Email Enviado ./partes/D999999-Extintor-1.docx
+[2018-09-14 11:44:58.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Revisión Finalizada - id_revision=237 - n_revision=D999999
+[2018-09-14 11:45:09.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=112 - esEditar=0
+[2018-09-14 11:45:12.000000 192.168.1.1 - tecnico - Info ] Página Reabrir Revisión - GET - id_cliente=112 - id_revision=237
+[2018-09-14 11:45:13.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=112 - esEditar=0
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - GET - id_cliente=112 - id_revision=237 - tipo_revision=1 - email= - nombre_firma= 
+- obs_extintor= - obs_bie= - obs_deteccion= - obs_extincion= - obs_bateria=
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id FROM dispositivos WHERE id_cliente = 112 AND subtipo = 1 AND id > 0 ORDER BY numero ASC
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - pagTotales=1
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 112
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - id_cliente=112 - nombre_cliente=VIGILANT S.A. - CIF=A-30085401 - direccion=C/ PARAGUAY, PARC. 8/9, 30820, ALCANTARILLA, MURCIA
+				- emplazamiento=EMPRESA - tecnico=
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT n_revision FROM revisiones WHERE id = 237
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - n_revision=D999999
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id, tipo_dispositivo, n_timbre, f_fabricacion, retimbrado, ubicacion, intervencion, estado, numero FROM dispositivos WHERE 
+					id_cliente = 112 AND subtipo = 1 AND numero >= 0 ORDER BY numero ASC LIMIT 19
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - nombre_titular=VIGILANT S.A. - direccion=C/ PARAGUAY, PARC. 8/9, 30820, ALCANTARILLA, MURCIA - emplazamiento=EMPRESA - tecnico=
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - obs_extintor=
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Documento Guardado
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=INSERT INTO documentos (id_revision, ruta, tipo)
+					VALUES ("237", "./partes/D999999-Extintor-1.docx", "Extintor")
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardando documento ./partes/D999999-Extintor-1.docx
+[2018-09-14 11:45:24.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Requiere Certificado
+[2018-09-14 11:45:25.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Email Enviado ./partes/D999999-Extintor-1.docx
+[2018-09-14 11:45:25.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Revisión Finalizada - id_revision=237 - n_revision=D999999
+[2018-09-14 11:54:47.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=112 - esEditar=0
+[2018-09-14 11:54:50.000000 192.168.1.1 - tecnico - Info ] Página Reabrir Revisión - GET - id_cliente=112 - id_revision=237
+[2018-09-14 11:54:51.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=112 - esEditar=0
