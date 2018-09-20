@@ -166,9 +166,16 @@ echo '<div data-role="page" class="page_list">
 	<div data-role="header">
 		<h1>'.$nombre_cliente.'</h1>
 	</div>
+	<div data-role="header">';
+			if($usuario=='tecnico'){
+			echo '<button onclick="window.location.href=`ficha_cliente.php?id_cliente='.$id_cliente.'&editar=0`">Volver</button>';
+		} else {
+			echo '<button onclick="window.location.href=`ficha_tecnica.php?id_cliente='.$id_cliente.'&editar=0`">Volver</button>';
+		}
+		echo '</div>
 	<div id="content" data-role="content">
-        <div>
-			<ul data-role="listview" data-theme="a">';
+        <div>';
+			echo '<ul data-role="listview" data-theme="a">';
 if ($tipo_revision == 1 || $tipo_revision == 2 || $tipo_revision == 5){
 	$query = 'SELECT id, tipo_dispositivo, n_timbre, f_fabricacion, retimbrado, ubicacion, intervencion, estado, numero FROM dispositivos WHERE id_cliente = '.$id_cliente.' AND subtipo = '.$tipo_revision.'  ORDER BY numero ASC'; // AND id NOT IN (SELECT id FROM dispositivos WHERE fecha_nulo < curdate())
 	$result = mysqli_query($conexion,$query);	
