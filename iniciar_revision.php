@@ -48,8 +48,9 @@ if($guardar){
 		$retimbrado = $_GET['retimbrado'];
 		
 		$fechaHoy = date('Y-m-d');
-		$fechaMax = strtotime('-4 year', strtotime($fechaHoy));
-		$fechaMax = strtotime('-335 day', strtotime($fechaMax));
+		$fechaMenos = strtotime('-5 year', strtotime($fechaHoy));
+		$fechaHoy = date('Y-m-d', $fechaMenos);
+		$fechaMax = strtotime('+30 day', strtotime($fechaHoy));
 		$fechaMax = date('Y-m-d',$fechaMax);
 		
 		if ($f_fabricacion > $fechaMax) {
@@ -106,8 +107,9 @@ if($actualizar){
 	$retimbrado = $_GET['retimbrado'];
 	
 	$fechaHoy = date('Y-m-d');
-	$fechaMax = strtotime('-4 year', strtotime($fechaHoy));
-	$fechaMax = strtotime('-335 day', strtotime($fechaMax));
+	$fechaMenos = strtotime('-5 year', strtotime($fechaHoy));
+	$fechaHoy = date('Y-m-d', $fechaMenos);
+	$fechaMax = strtotime('+30 day', strtotime($fechaHoy));
 	$fechaMax = date('Y-m-d',$fechaMax);	
 	
 	$nulo = 0;
@@ -164,9 +166,16 @@ echo '<div data-role="page" class="page_list">
 	<div data-role="header">
 		<h1>'.$nombre_cliente.'</h1>
 	</div>
+	<div data-role="header">';
+			if($usuario=='tecnico'){
+			echo '<button onclick="window.location.href=`ficha_cliente.php?id_cliente='.$id_cliente.'&editar=0`">Volver</button>';
+		} else {
+			echo '<button onclick="window.location.href=`ficha_tecnica.php?id_cliente='.$id_cliente.'&editar=0`">Volver</button>';
+		}
+		echo '</div>
 	<div id="content" data-role="content">
-        <div>
-			<ul data-role="listview" data-theme="a">';
+        <div>';
+			echo '<ul data-role="listview" data-theme="a">';
 if ($tipo_revision == 1 || $tipo_revision == 2 || $tipo_revision == 5){
 	$query = 'SELECT id, tipo_dispositivo, n_timbre, f_fabricacion, retimbrado, ubicacion, intervencion, estado, numero FROM dispositivos WHERE id_cliente = '.$id_cliente.' AND subtipo = '.$tipo_revision.'  ORDER BY numero ASC'; // AND id NOT IN (SELECT id FROM dispositivos WHERE fecha_nulo < curdate())
 	$result = mysqli_query($conexion,$query);	
@@ -293,8 +302,9 @@ if ($tipo_revision == 1 || $tipo_revision == 2 || $tipo_revision == 5){
 								<p><b>Ubicación: </b>'.$ubicacion.'</p>';
 								
 								$fechaHoy = date('Y-m-d');
-								$fechaMax = strtotime('-4 year', strtotime($fechaHoy));
-								$fechaMax = strtotime('-335 day', strtotime($fechaMax));
+								$fechaMenos = strtotime('-5 year', strtotime($fechaHoy));
+								$fechaHoy = date('Y-m-d', $fechaMenos);
+								$fechaMax = strtotime('+30 day', strtotime($fechaHoy));
 								$fechaMax = date('Y-m-d',$fechaMax);
 								if ($f_fabricacion < $fechaMax){
 									echo '<p><b>Fecha Retimbrado: </b>'.$retimbrado.'</p>';
@@ -335,8 +345,9 @@ if ($tipo_revision == 1 || $tipo_revision == 2 || $tipo_revision == 5){
 								<p><b>Ubicación: </b>'.$ubicacion.'</p>';
 								
 								$fechaHoy = date('Y-m-d');
-								$fechaMax = strtotime('-4 year', strtotime($fechaHoy));
-								$fechaMax = strtotime('-335 day', strtotime($fechaMax));
+								$fechaMenos = strtotime('-5 year', strtotime($fechaHoy));
+								$fechaHoy = date('Y-m-d', $fechaMenos);
+								$fechaMax = strtotime('+30 day', strtotime($fechaHoy));
 								$fechaMax = date('Y-m-d',$fechaMax);
 								if ($f_fabricacion < $fechaMax){
 									echo '<p><b>Fecha Retimbrado: </b>'.$retimbrado.'</p>';
@@ -363,16 +374,9 @@ if ($tipo_revision == 1 || $tipo_revision == 2 || $tipo_revision == 5){
 			<input type="hidden" id="nuevo" name="nuevo" value="0">
 			<input type="hidden" id="guardar" name="guardar" value="1">
 			<input type="hidden" id="actualizar" name="actualizar" value="0">
+			<input type="hidden" name="subtipo" value="'.$tipo_revision.'">
 			<a class="ui-link-inherit">
 				<p><b>Nº: </b><input name="numero" autofocus id="numero" type="text" value="" /></p>
-				<p><b>Subtipo: </b>
-					<select name="subtipo">
-						<option value="1">Extintor</option>
-						<option value="2">BIE</option>
-						<option value="3">Detecci&oacute;n</option>
-						<option value="4">Extinci&oacute;n</option>
-						<option value="5">Bater&iacute;a</option>
-				</select></p>
 				<p><b>Tipo: </b><input type="text" id="tipo_disp" name="tipo_disp">
 				<p><b>Nº Timbre: </b><input name="n_timbre" type="text" value="" /></p>
 				<p><b>Fecha Fabricación: </b><input name="f_fabricacion" type="date" value="'.date('Y-m-d').'" /></p>
@@ -399,7 +403,7 @@ if ($tipo_revision == 1 || $tipo_revision == 2 || $tipo_revision == 5){
 			<input type="hidden" id="id_revision" name="id_revision" value="'.$id_revision.'">
 			<input type="hidden" id="id_cliente" name="id_cliente" value="'.$id_cliente.'">
 			<input type="hidden" id="n_revision" name="n_revision" value="'.$n_revision.'">
-							<input type="hidden" id="tipo_revision" name="tipo_revision" value="'.$tipo_revision.'">
+			<input type="hidden" id="tipo_revision" name="tipo_revision" value="'.$tipo_revision.'">
 			<input type="hidden" id="editar" name="editar" value="0">
 			<input type="hidden" id="nuevo" name="nuevo" value="1">
 			<input type="hidden" id="tipo" name="tipo" value="0">
@@ -537,15 +541,8 @@ if ($tipo_revision == 1 || $tipo_revision == 2 || $tipo_revision == 5){
 			<input type="hidden" id="nuevo" name="nuevo" value="0">
 			<input type="hidden" id="guardar" name="guardar" value="1">
 			<input type="hidden" id="actualizar" name="actualizar" value="0">
+			<input type="hidden" name="subtipo" value="'.$tipo_revision.'">
 			<a class="ui-link-inherit">
-				<p><b>Subtipo: </b>
-						<select name="subtipo">
-							<option value="1">Extintor</option>
-							<option value="2">BIE</option>
-							<option value="3">Detecci&oacute;n</option>
-							<option value="4">Extinci&oacute;n</option>
-							<option value="5">Bater&iacute;a</option>
-					</select></p>
 				<p><b>Elemento: </b><input name="nombre" autofocus id="nombre" type="text" value="" /></p>
 				<p><b>Cantidad: </b><input type="text" id="cantidad" name="cantidad">
 				<p><b>Estado: </b><input name="estado" type="text" value="" /></p>

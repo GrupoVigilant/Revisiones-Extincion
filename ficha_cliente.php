@@ -1,6 +1,6 @@
 <?php
 // Añadir documentos de sesión y conexión a BBDD
-require_once('PHPWord.php');
+require_once('sesion.php');
 require_once('conexion.php');
 
 // Añadimos el título de la página
@@ -151,7 +151,7 @@ if ($row = mysqli_fetch_array($result)){
 	}
 	while ($row = mysqli_fetch_array($result));
 } else {
-	echo 'Sin registros';
+	
 }
 
 mysqli_close($conexion);
@@ -165,6 +165,9 @@ echo '
 		</form>
 </li>
 </ul>
+</div>
+</div>
+</div>
 </body>
 </html>';
 ?>

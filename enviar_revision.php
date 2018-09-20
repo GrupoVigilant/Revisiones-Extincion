@@ -41,18 +41,19 @@ write_log('Página Enviar Revisión - GET - id_cliente='.$id_cliente.' - id_revi
 
 // Calculamos la fecha máxima de equipo sin retimbrar
 $fechaHoy = date('Y-m-d');
-$fechaMax = strtotime('-4 year', strtotime($fechaHoy));
-$fechaMax = strtotime('-335 day', strtotime($fechaMax));
+$fechaMenos = strtotime('-5 year', strtotime($fechaHoy));
+$fechaHoy = date('Y-m-d', $fechaMenos);
+$fechaMax = strtotime('+30 day', strtotime($fechaHoy));
 $fechaMax = date('Y-m-d',$fechaMax);
 
-$queryMail = 'INSERT INTO clientes SET email="'.$email.'", nombre_firma="'.$nombre_firma.'" WHERE id='.$id_cliente;
+$queryMail = 'UPDATE clientes SET email="'.$email.'", nombre_firma="'.$nombre_firma.'" WHERE id='.$id_cliente;
 $resultMail = mysqli_query($conexion,$queryMail);
 
 if ($conexion->query($queryMail) === TRUE) {
 	write_log('Página Enviar Revisión - Guardar Mail - id_cliente='.$id_cliente.' - email='.$email.' - nombre_firma='.$nombre_firma,'Info');
 }
 else {
-	write_log('Página Enviar Revisión - Guardar Mail - id_cliente='.$id_cliente.' - email='.$email.' - nombre_firma='.$nombre_firma.' - Error='$conexion->error,'Error');
+	write_log('Página Enviar Revisión - Guardar Mail - id_cliente='.$id_cliente.' - email='.$email.' - nombre_firma='.$nombre_firma.' - Error='.$conexion->error,'Error');
 }
 
 $PHPWord = new PHPWord();
@@ -476,7 +477,7 @@ if(!$mail->Send()) {
 	write_log('Página '.$tituloPag.' - Email Enviado '.$nombreFichero,'Info');
 } 
 
-$queryFin = 'UPDATE revisiones SET f_finalizacion = "'.$fechaHoy.'", finalizado = 1 WHERE id = '.$id_revision;
+$queryFin = 'UPDATE revisiones SET f_finalizacion = "'.date('Y-m-d').'", finalizado = 1 WHERE id = '.$id_revision;
 if ($conexion->query($queryFin) === TRUE) {
 	write_log('Página '.$tituloPag.' - Revisión Finalizada - id_revision='.$id_revision.' - n_revision='.$n_revision,'Info');
 }
