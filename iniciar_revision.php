@@ -198,7 +198,7 @@ if ($tipo_revision == 1 || $tipo_revision == 2 || $tipo_revision == 5){
 			$numero = $row['numero'];
 			if($editar){
 				if($id_dispositivo==$_GET['id_elemento']){
-					if($usuario=='tecnico' || $usuario=='603'){
+					if($usuario=='tecnico' || $usuario=='603' || $usuario=='606'){
 						echo '
 						<li>
 							<form action="iniciar_revision.php" id="login" method="get" name="editar'.$id_dispositivo.'" target="_self">
@@ -434,7 +434,7 @@ if ($tipo_revision == 1 || $tipo_revision == 2 || $tipo_revision == 5){
 			$estado = $row['estado'];
 			if($editar){
 				if($id_dispositivo==$_GET['id_elemento']){
-					if($usuario=='tecnico' || $usuario='603'){
+					if($usuario=='tecnico' || $usuario='603' || $usuario='606'){
 						echo '
 						<li>
 							<form action="iniciar_revision.php" id="login" method="get" name="editar'.$id_dispositivo.'" target="_self">
