@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AccessException.php" server="srv-datos/pruebasextincion/" local="131747842640000000" remote="131829536400000000" Dst="2" />
+<file name="ExceptionInterface.php" server="srv-datos/pruebasextincion/" local="131747842640000000" remote="131829536400000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="srv-datos/pruebasextincion/" local="131747842640000000" remote="131829536400000000" Dst="2" />
+<file name="InvalidOptionsException.php" server="srv-datos/pruebasextincion/" local="131747842640000000" remote="131829536400000000" Dst="2" />
+<file name="MissingOptionsException.php" server="srv-datos/pruebasextincion/" local="131747842640000000" remote="131829536400000000" Dst="2" />
+<file name="NoConfigurationException.php" server="srv-datos/pruebasextincion/" local="131747842640000000" remote="131829536400000000" Dst="2" />
+<file name="NoSuchOptionException.php" server="srv-datos/pruebasextincion/" local="131747842640000000" remote="131829536400000000" Dst="2" />
+<file name="OptionDefinitionException.php" server="srv-datos/pruebasextincion/" local="131747842640000000" remote="131829536400000000" Dst="2" />
+<file name="UndefinedOptionsException.php" server="srv-datos/pruebasextincion/" local="131747842640000000" remote="131829536400000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BacktickOperatorSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="CharacterBeforePHPOpeningTagSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="ClosingPHPTagSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="DeprecatedFunctionsSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="DisallowAlternativePHPTagsSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="DisallowShortOpenTagSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="ForbiddenFunctionsSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="LowerCaseConstantSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="LowerCaseKeywordSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="NoSilencedErrorsSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="SAPIUsageSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="SyntaxSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="UpperCaseConstantSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+</dwsync>

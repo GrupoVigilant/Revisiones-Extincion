@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Client.php" server="srv-datos/pruebasextincion/" local="131747844750000000" remote="131829534000000000" Dst="2" />
+<file name="ClientInterface.php" server="srv-datos/pruebasextincion/" local="131747844750000000" remote="131829534000000000" Dst="2" />
+<file name="functions.php" server="srv-datos/pruebasextincion/" local="131747844760000000" remote="131829534000000000" Dst="2" />
+<file name="functions_include.php" server="srv-datos/pruebasextincion/" local="131747844760000000" remote="131829534000000000" Dst="2" />
+<file name="HandlerStack.php" server="srv-datos/pruebasextincion/" local="131747844760000000" remote="131829534600000000" Dst="2" />
+<file name="MessageFormatter.php" server="srv-datos/pruebasextincion/" local="131747844760000000" remote="131829534600000000" Dst="2" />
+<file name="Middleware.php" server="srv-datos/pruebasextincion/" local="131747844760000000" remote="131829534600000000" Dst="2" />
+<file name="Pool.php" server="srv-datos/pruebasextincion/" local="131747844760000000" remote="131829534600000000" Dst="2" />
+<file name="PrepareBodyMiddleware.php" server="srv-datos/pruebasextincion/" local="131747844760000000" remote="131829534600000000" Dst="2" />
+<file name="RedirectMiddleware.php" server="srv-datos/pruebasextincion/" local="131747844760000000" remote="131829534600000000" Dst="2" />
+<file name="RequestOptions.php" server="srv-datos/pruebasextincion/" local="131747844760000000" remote="131829534600000000" Dst="2" />
+<file name="RetryMiddleware.php" server="srv-datos/pruebasextincion/" local="131747844760000000" remote="131829534600000000" Dst="2" />
+<file name="TransferStats.php" server="srv-datos/pruebasextincion/" local="131747844760000000" remote="131829534600000000" Dst="2" />
+<file name="UriTemplate.php" server="srv-datos/pruebasextincion/" local="131747844760000000" remote="131829534600000000" Dst="2" />
+</dwsync>

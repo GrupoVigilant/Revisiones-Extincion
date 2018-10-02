@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class-with-anonymous-function-clover.xml" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="class-with-anonymous-function-crap4j.xml" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="class-with-anonymous-function-text.txt" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="CoverageMethodParenthesesTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="CoverageMethodParenthesesWhitespaceTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="CoverageMethodTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="CoverageNoneTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="CoverageNothingTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="CoverageNotPrivateTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="CoverageNotProtectedTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="CoverageNotPublicTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="CoveragePrivateTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="CoverageProtectedTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="CoveragePublicTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="CoverageTwoDefaultClassAnnotations.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="CoveredClass.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="CoveredFunction.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="ignored-lines-clover.xml" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="ignored-lines-crap4j.xml" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="ignored-lines-text.txt" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="NamespaceCoverageClassExtendedTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="NamespaceCoverageClassTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="NamespaceCoverageCoversClassPublicTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="NamespaceCoverageCoversClassTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="NamespaceCoverageMethodTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="NamespaceCoverageNotPrivateTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="NamespaceCoverageNotProtectedTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="NamespaceCoverageNotPublicTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="NamespaceCoveragePrivateTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="NamespaceCoverageProtectedTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="NamespaceCoveragePublicTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="NamespaceCoveredClass.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="NotExistingCoveredElementTest.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="source_with_class_and_anonymous_function.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="source_with_ignore.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="source_with_namespace.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="source_with_oneline_annotations.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="source_without_ignore.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="source_without_namespace.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+</dwsync>

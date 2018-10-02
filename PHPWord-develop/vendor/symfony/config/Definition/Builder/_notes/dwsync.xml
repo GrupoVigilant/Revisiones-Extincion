@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayNodeDefinition.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="BooleanNodeDefinition.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="BuilderAwareInterface.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="EnumNodeDefinition.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="ExprBuilder.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="FloatNodeDefinition.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="IntegerNodeDefinition.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="MergeBuilder.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="NodeBuilder.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="NodeDefinition.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="NodeParentInterface.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="NormalizationBuilder.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="NumericNodeDefinition.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="ParentNodeDefinitionInterface.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="ScalarNodeDefinition.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="TreeBuilder.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="ValidationBuilder.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="VariableNodeDefinition.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+</dwsync>

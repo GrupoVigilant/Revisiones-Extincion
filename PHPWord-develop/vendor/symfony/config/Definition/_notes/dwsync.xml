@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayNode.php" server="srv-datos/pruebasextincion/" local="131747843170000000" remote="131829535800000000" Dst="2" />
+<file name="BaseNode.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="BooleanNode.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="ConfigurationInterface.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="EnumNode.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="FloatNode.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="IntegerNode.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="NodeInterface.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="NumericNode.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="Processor.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="PrototypedArrayNode.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="PrototypeNodeInterface.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="ScalarNode.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="VariableNode.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+</dwsync>

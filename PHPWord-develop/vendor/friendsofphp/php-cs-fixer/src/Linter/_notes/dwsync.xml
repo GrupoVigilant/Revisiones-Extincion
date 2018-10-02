@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CachingLinter.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="Linter.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="LinterInterface.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="LintingException.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="LintingResultInterface.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="ProcessLinter.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="ProcessLinterProcessBuilder.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="ProcessLintingResult.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="TokenizerLinter.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="TokenizerLintingResult.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="UnavailableLinterException.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+</dwsync>

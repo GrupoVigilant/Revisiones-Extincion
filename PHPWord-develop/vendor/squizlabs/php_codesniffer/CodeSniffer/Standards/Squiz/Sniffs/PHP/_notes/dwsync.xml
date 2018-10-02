@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommentedOutCodeSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="DisallowBooleanStatementSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="DisallowComparisonAssignmentSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="DisallowInlineIfSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="DisallowMultipleAssignmentsSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="DisallowObEndFlushSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="DisallowSizeFunctionsInLoopsSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="DiscouragedFunctionsSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="EmbeddedPhpSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="EvalSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="ForbiddenFunctionsSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="GlobalKeywordSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="HeredocSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="InnerFunctionsSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="LowercasePHPFunctionsSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="NonExecutableCodeSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+</dwsync>

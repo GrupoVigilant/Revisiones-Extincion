@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AliasedFixerOption.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="AliasedFixerOptionBuilder.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="AllowedValueSubset.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="DeprecatedFixerOption.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="DeprecatedFixerOptionInterface.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="FixerConfigurationResolver.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="FixerConfigurationResolverInterface.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="FixerConfigurationResolverRootless.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="FixerOption.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="FixerOptionBuilder.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="FixerOptionInterface.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="InvalidOptionsForEnvException.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+</dwsync>

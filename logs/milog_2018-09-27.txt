@@ -1,0 +1,93 @@
+[2018-09-27 08:00:47.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=5 - esEditar=0
+[2018-09-27 08:01:00.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=5 - esEditar=0
+[2018-09-27 08:01:05.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=82 - esEditar=0
+[2018-09-27 08:01:30.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión- GET - id_revision=157 - id_cliente=82
+[2018-09-27 08:01:30.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 82
+[2018-09-27 08:01:30.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - nombre_cliente=HOTEL ALHAMBRA PALACE S.A.
+[2018-09-27 08:01:30.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 157
+[2018-09-27 08:01:30.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211616-Extintor-1.docx - nombreDoc=D211616-Extintor-1.docxtipo=Extintor
+[2018-09-27 08:01:30.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211616-Extintor-2.docx - nombreDoc=D211616-Extintor-2.docxtipo=Extintor
+[2018-09-27 08:01:30.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211616-Extintor-3.docx - nombreDoc=D211616-Extintor-3.docxtipo=Extintor
+[2018-09-27 08:01:30.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211616-Extintor-4.docx - nombreDoc=D211616-Extintor-4.docxtipo=Extintor
+[2018-09-27 08:01:30.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211616-Extintor-5.docx - nombreDoc=D211616-Extintor-5.docxtipo=Extintor
+[2018-09-27 08:01:30.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211616-Extintor-6.docx - nombreDoc=D211616-Extintor-6.docxtipo=Extintor
+[2018-09-27 08:01:35.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión- GET - id_revision=206 - id_cliente=82
+[2018-09-27 08:01:35.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 82
+[2018-09-27 08:01:35.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - nombre_cliente=HOTEL ALHAMBRA PALACE S.A.
+[2018-09-27 08:01:35.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 206
+[2018-09-27 08:01:35.000000 192.168.1.1 - tecnico - Error ] Página Listado Documentos Revisión - ruta= - nombreDoc=tipo= - Error=
+[2018-09-27 08:01:41.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión- GET - id_revision=206 - id_cliente=
+[2018-09-27 08:01:41.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 
+[2018-09-27 08:01:41.000000 192.168.1.1 - tecnico - Error ] Página Listado Documentos Revisión - nombre_cliente= - Error=You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[2018-09-27 08:01:41.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 206
+[2018-09-27 08:01:41.000000 192.168.1.1 - tecnico - Error ] Página Listado Documentos Revisión - ruta= - nombreDoc=tipo= - Error=
+[2018-09-27 08:04:39.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión- GET - id_revision=206 - id_cliente=82
+[2018-09-27 08:04:39.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 82
+[2018-09-27 08:04:39.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - nombre_cliente=HOTEL ALHAMBRA PALACE S.A.
+[2018-09-27 08:04:39.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 206
+[2018-09-27 08:04:39.000000 192.168.1.1 - tecnico - Error ] Página Listado Documentos Revisión - ruta= - nombreDoc=tipo= - Error=
+[2018-09-27 08:04:54.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión- GET - id_revision=206 - id_cliente=
+[2018-09-27 08:04:54.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 
+[2018-09-27 08:04:54.000000 192.168.1.1 - tecnico - Error ] Página Listado Documentos Revisión - nombre_cliente= - Error=You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[2018-09-27 08:04:54.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 206
+[2018-09-27 08:04:54.000000 192.168.1.1 - tecnico - Error ] Página Listado Documentos Revisión - ruta= - nombreDoc=tipo= - Error=
+[2018-09-27 08:04:56.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión- GET - id_revision=206 - id_cliente=82
+[2018-09-27 08:04:56.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 82
+[2018-09-27 08:04:56.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - nombre_cliente=HOTEL ALHAMBRA PALACE S.A.
+[2018-09-27 08:04:56.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 206
+[2018-09-27 08:04:56.000000 192.168.1.1 - tecnico - Error ] Página Listado Documentos Revisión - ruta= - nombreDoc=tipo= - Error=
+[2018-09-27 08:04:59.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión- GET - id_revision=157 - id_cliente=82
+[2018-09-27 08:04:59.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 82
+[2018-09-27 08:04:59.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - nombre_cliente=HOTEL ALHAMBRA PALACE S.A.
+[2018-09-27 08:04:59.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 157
+[2018-09-27 08:04:59.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211616-Extintor-1.docx - nombreDoc=D211616-Extintor-1.docxtipo=Extintor
+[2018-09-27 08:04:59.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211616-Extintor-2.docx - nombreDoc=D211616-Extintor-2.docxtipo=Extintor
+[2018-09-27 08:04:59.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211616-Extintor-3.docx - nombreDoc=D211616-Extintor-3.docxtipo=Extintor
+[2018-09-27 08:04:59.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211616-Extintor-4.docx - nombreDoc=D211616-Extintor-4.docxtipo=Extintor
+[2018-09-27 08:04:59.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211616-Extintor-5.docx - nombreDoc=D211616-Extintor-5.docxtipo=Extintor
+[2018-09-27 08:04:59.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211616-Extintor-6.docx - nombreDoc=D211616-Extintor-6.docxtipo=Extintor
+[2018-09-27 08:05:19.000000 192.168.1.1 - tecnico - Info ] Página Reabrir Revisión - GET - id_cliente=82 - id_revision=206
+[2018-09-27 08:05:20.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=82 - esEditar=0
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - GET - id_cliente=82 - id_revision=206 - tipo_revision=3 - email=serviciotecnico@h-alhambrapalace.com - nombre_firma=JOSE LUIS ALARCON 
+- obs_extintor= - obs_bie= - obs_deteccion= - obs_extincion= - obs_bateria=
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardar Mail - id_cliente=82 - email=serviciotecnico@h-alhambrapalace.com - nombre_firma=JOSE LUIS ALARCON
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id FROM dispositivos_cont WHERE id_cliente = 82 AND subtipo = 3 AND id > 0 ORDER BY id ASC
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - pagTotales=1
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT nombre_cliente, CIF, direccion, emplazamiento, tecnico FROM Clientes WHERE id = 82
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - id_cliente=82 - nombre_cliente=HOTEL ALHAMBRA PALACE S.A. - CIF=A-18017228 - direccion=PLAZA ARQUITECTO GARCIA PAREDES, 1, 18009, GRANADA
+				- emplazamiento=UNICA - tecnico=602
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT n_revision FROM revisiones WHERE id = 206
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - n_revision=D214460
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Ejecutando=SELECT id, nombre, cantidad, estado FROM dispositivos_cont WHERE 
+					id_cliente = 82 AND subtipo = 3 AND id >= 0 ORDER BY id ASC LIMIT 19
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - nombre_titular=HOTEL ALHAMBRA PALACE S.A. - direccion=PLAZA ARQUITECTO GARCIA PAREDES, 1, 18009, GRANADA - emplazamiento=UNICA - tecnico=602
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento - obs_bie=
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Valores
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Escribiendo Campos en Blanco
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Documento 1 - Documento Guardado
+[2018-09-27 08:05:53.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardando documento ./partes/D214460-Detección-1.docx
+[2018-09-27 08:05:54.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Email Enviado ./partes/D214460-Detección-1.docx
+[2018-09-27 08:05:54.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Revisión Finalizada - id_revision=206 - n_revision=D214460
+[2018-09-27 08:23:09.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=82 - esEditar=0
+[2018-09-27 08:23:13.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión- GET - id_revision=206 - id_cliente=82
+[2018-09-27 08:23:13.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 82
+[2018-09-27 08:23:13.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - nombre_cliente=HOTEL ALHAMBRA PALACE S.A.
+[2018-09-27 08:23:13.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 206
+[2018-09-27 08:23:13.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D214460-Detección-1.docx - nombreDoc=D214460-Detección-1.docxtipo=Detección

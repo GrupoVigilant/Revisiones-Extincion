@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="FullyQualifiedStrictTypesFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="NoLeadingImportSlashFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="NoUnusedImportsFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="OrderedImportsFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="SingleImportPerStatementFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="SingleLineAfterImportsFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassDependencyAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="ClassLevelAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="CodeRankAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="CohesionAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="CouplingAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="CrapIndexAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="CyclomaticComplexityAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="DependencyAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="HalsteadAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="HierarchyAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="InheritanceAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="MaintainabilityIndexAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="NodeCountAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="NodeLocAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="NPathComplexityAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+</dwsync>

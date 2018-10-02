@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="FunctionDeclarationFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="FunctionTypehintSpaceFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="MethodArgumentSpaceFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="NativeFunctionInvocationFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="NoSpacesAfterFunctionNameFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="NoUnreachableDefaultArgumentValueFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocToReturnTypeFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="ReturnTypeDeclarationFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="StaticLambdaFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="VoidReturnFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+</dwsync>

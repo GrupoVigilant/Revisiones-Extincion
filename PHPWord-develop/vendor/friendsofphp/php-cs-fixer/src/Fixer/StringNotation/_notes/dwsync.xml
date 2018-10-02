@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="EscapeImplicitBackslashesFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="ExplicitStringVariableFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="HeredocToNowdocFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="NoBinaryStringFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="SingleQuoteFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="StringLineEndingFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+</dwsync>

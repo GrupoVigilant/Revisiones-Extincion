@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Assert.php" server="srv-datos/pruebasextincion/" local="131747842390000000" remote="131829535200000000" Dst="2" />
+<file name="AssertionFailedError.php" server="srv-datos/pruebasextincion/" local="131747842390000000" remote="131829535200000000" Dst="2" />
+<file name="BaseTestListener.php" server="srv-datos/pruebasextincion/" local="131747842390000000" remote="131829535200000000" Dst="2" />
+<file name="CodeCoverageException.php" server="srv-datos/pruebasextincion/" local="131747842390000000" remote="131829535200000000" Dst="2" />
+<file name="Constraint.php" server="srv-datos/pruebasextincion/" local="131747842390000000" remote="131829535200000000" Dst="2" />
+<file name="CoveredCodeNotExecutedException.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="Error.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="Exception.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="ExceptionWrapper.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="ExpectationFailedException.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="IncompleteTest.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="IncompleteTestCase.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="IncompleteTestError.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="InvalidCoversTargetException.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="MissingCoversAnnotationException.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="OutputError.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="RiskyTest.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="RiskyTestError.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="SelfDescribing.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="SkippedTest.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="SkippedTestCase.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="SkippedTestError.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="SkippedTestSuiteError.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="SyntheticError.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="Test.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="TestCase.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="TestFailure.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="TestListener.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="TestResult.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="TestSuite.php" server="srv-datos/pruebasextincion/" local="131747842400000000" remote="131829535200000000" Dst="2" />
+<file name="UnintentionallyCoveredCodeError.php" server="srv-datos/pruebasextincion/" local="131747842410000000" remote="131829535200000000" Dst="2" />
+<file name="Warning.php" server="srv-datos/pruebasextincion/" local="131747842410000000" remote="131829535200000000" Dst="2" />
+<file name="WarningTestCase.php" server="srv-datos/pruebasextincion/" local="131747842410000000" remote="131829535200000000" Dst="2" />
+</dwsync>

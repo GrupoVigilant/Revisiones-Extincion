@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractMockTestClass.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="AbstractTrait.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="AnInterface.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="AnInterfaceWithReturnType.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="AnotherInterface.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="Bar.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="ClassThatImplementsSerializable.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="ClassWithSelfTypeHint.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="ClassWithStaticMethod.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="Foo.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="FunctionCallback.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="GoogleSearch.wsdl" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="InterfaceWithSemiReservedMethodName.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="InterfaceWithStaticMethod.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="MethodCallback.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="MethodCallbackByReference.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="Mockable.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="MockTestInterface.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="PartialMockTestClass.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="SingletonClass.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="SomeClass.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="StaticMockTestClass.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="StringableClass.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="TraversableMockTestInterface.php" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+</dwsync>

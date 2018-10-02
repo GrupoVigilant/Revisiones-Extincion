@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" server="srv-datos/pruebasextincion/" local="131747843110000000" remote="131829536400000000" Dst="2" />
+<file name="Alias.php" server="srv-datos/pruebasextincion/" local="131747843110000000" remote="131829536400000000" Dst="2" />
+<file name="CHANGELOG.md" server="srv-datos/pruebasextincion/" local="131747843110000000" remote="131829536400000000" Dst="2" />
+<file name="ChildDefinition.php" server="srv-datos/pruebasextincion/" local="131747843110000000" remote="131829536400000000" Dst="2" />
+<file name="composer.json" server="srv-datos/pruebasextincion/" local="131747843160000000" remote="131829536400000000" Dst="2" />
+<file name="Container.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829536400000000" Dst="2" />
+<file name="ContainerAwareInterface.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829536400000000" Dst="2" />
+<file name="ContainerAwareTrait.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829536400000000" Dst="2" />
+<file name="ContainerBuilder.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829536400000000" Dst="2" />
+<file name="ContainerInterface.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829536400000000" Dst="2" />
+<file name="Definition.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829536400000000" Dst="2" />
+<file name="EnvVarProcessor.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829536400000000" Dst="2" />
+<file name="EnvVarProcessorInterface.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829536400000000" Dst="2" />
+<file name="ExpressionLanguage.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829536400000000" Dst="2" />
+<file name="ExpressionLanguageProvider.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829536400000000" Dst="2" />
+<file name="LICENSE" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829536400000000" Dst="2" />
+<file name="Parameter.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="phpunit.xml.dist" server="srv-datos/pruebasextincion/" local="131747843160000000" remote="131829536400000000" Dst="2" />
+<file name="README.md" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="Reference.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="ResettableContainerInterface.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="ServiceLocator.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="ServiceSubscriberInterface.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="TaggedContainerInterface.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="TypedReference.php" server="srv-datos/pruebasextincion/" local="131747843160000000" remote="131829536400000000" Dst="2" />
+<file name="Variable.php" server="srv-datos/pruebasextincion/" local="131747843160000000" remote="131829536400000000" Dst="2" />
+</dwsync>

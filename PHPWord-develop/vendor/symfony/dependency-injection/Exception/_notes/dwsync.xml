@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AutowiringFailedException.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829535800000000" Dst="2" />
+<file name="BadMethodCallException.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829535800000000" Dst="2" />
+<file name="EnvNotFoundException.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829535800000000" Dst="2" />
+<file name="EnvParameterException.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829535800000000" Dst="2" />
+<file name="ExceptionInterface.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829535800000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829535800000000" Dst="2" />
+<file name="LogicException.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829535800000000" Dst="2" />
+<file name="OutOfBoundsException.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829535800000000" Dst="2" />
+<file name="ParameterCircularReferenceException.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829535800000000" Dst="2" />
+<file name="ParameterNotFoundException.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829535800000000" Dst="2" />
+<file name="RuntimeException.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829535800000000" Dst="2" />
+<file name="ServiceCircularReferenceException.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829535800000000" Dst="2" />
+<file name="ServiceNotFoundException.php" server="srv-datos/pruebasextincion/" local="131747843120000000" remote="131829535800000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="deprecation.tpl.dist" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="mocked_class.tpl.dist" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="mocked_class_method.tpl.dist" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="mocked_clone.tpl.dist" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="mocked_method.tpl.dist" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="mocked_method_void.tpl.dist" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="mocked_static_method.tpl.dist" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="proxied_method.tpl.dist" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="proxied_method_void.tpl.dist" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="trait_class.tpl.dist" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="unmocked_clone.tpl.dist" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="wsdl_class.tpl.dist" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="wsdl_method.tpl.dist" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+</dwsync>

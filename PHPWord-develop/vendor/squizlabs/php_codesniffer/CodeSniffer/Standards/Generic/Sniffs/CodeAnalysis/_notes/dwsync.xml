@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="EmptyStatementSniff.php" server="srv-datos/pruebasextincion/" local="131747842470000000" remote="131829535800000000" Dst="2" />
+<file name="ForLoopShouldBeWhileLoopSniff.php" server="srv-datos/pruebasextincion/" local="131747842470000000" remote="131829535800000000" Dst="2" />
+<file name="ForLoopWithTestFunctionCallSniff.php" server="srv-datos/pruebasextincion/" local="131747842470000000" remote="131829535800000000" Dst="2" />
+<file name="JumbledIncrementerSniff.php" server="srv-datos/pruebasextincion/" local="131747842470000000" remote="131829535800000000" Dst="2" />
+<file name="UnconditionalIfStatementSniff.php" server="srv-datos/pruebasextincion/" local="131747842470000000" remote="131829535800000000" Dst="2" />
+<file name="UnnecessaryFinalModifierSniff.php" server="srv-datos/pruebasextincion/" local="131747842470000000" remote="131829535800000000" Dst="2" />
+<file name="UnusedFunctionParameterSniff.php" server="srv-datos/pruebasextincion/" local="131747842470000000" remote="131829535800000000" Dst="2" />
+<file name="UselessOverridingMethodSniff.php" server="srv-datos/pruebasextincion/" local="131747842470000000" remote="131829535800000000" Dst="2" />
+</dwsync>

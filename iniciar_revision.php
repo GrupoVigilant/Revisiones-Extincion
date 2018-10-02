@@ -102,46 +102,54 @@ if($guardar){
 }
 
 if($actualizar){
+	if ($tipo_revision == 1 || $tipo_revision == 2 || $tipo_revision == 5){
 	
-	$f_fabricacion = $_GET['f_fabricacion'];
-	$retimbrado = $_GET['retimbrado'];
-	
-	$fechaHoy = date('Y-m-d');
-	$fechaMenos = strtotime('-5 year', strtotime($fechaHoy));
-	$fechaHoy = date('Y-m-d', $fechaMenos);
-	$fechaMax = strtotime('+30 day', strtotime($fechaHoy));
-	$fechaMax = date('Y-m-d',$fechaMax);	
-	
-	$nulo = 0;
-	$fecha_nulo = null;
-	
-	if ($f_fabricacion > $fechaMax) {
-		$retimbrado = '';
-	}
-	
-	if($_GET['estado']=='OK'){
-		$estado='Revisión';
-	}
-	if($_GET['estado']=='RTRC'){
-		$estado='Retimbrado+Recarga';
-	}
-	if($_GET['estado']=='RC'){
-		$estado='Recarga';
-	}
-	if($_GET['estado']=='NL'){
-		$estado='No Localizado';
-	}
-	if($_GET['estado']=='NULO'){
-		$estado='Nulo';
-		$nulo = 1;
-		$fecha_nulo = date('Y-m-d');
-	} 
-	$query = "UPDATE dispositivos SET tipo_dispositivo='".$_GET['tipo_disp']."', n_timbre='".$_GET['n_timbre']."', f_fabricacion='".$f_fabricacion."',
-		retimbrado='".$retimbrado."', ubicacion='".$_GET['ubicacion']."', intervencion='".$estado."', estado='".$_GET['estado']."', 
-		id_cliente='".$_GET['id_cliente']."', numero='".$_GET['numero']."', nulo='".$nulo."', fecha_nulo='".$fecha_nulo."' WHERE id='".$_GET['id_elemento']."'";
-	if ($conexion->query($query) === TRUE) {
-	}
-	else {
+		$f_fabricacion = $_GET['f_fabricacion'];
+		$retimbrado = $_GET['retimbrado'];
+
+		$fechaHoy = date('Y-m-d');
+		$fechaMenos = strtotime('-5 year', strtotime($fechaHoy));
+		$fechaHoy = date('Y-m-d', $fechaMenos);
+		$fechaMax = strtotime('+30 day', strtotime($fechaHoy));
+		$fechaMax = date('Y-m-d',$fechaMax);	
+
+		$nulo = 0;
+		$fecha_nulo = null;
+
+		if ($f_fabricacion > $fechaMax) {
+			$retimbrado = '';
+		}
+
+		if($_GET['estado']=='OK'){
+			$estado='Revisión';
+		}
+		if($_GET['estado']=='RTRC'){
+			$estado='Retimbrado+Recarga';
+		}
+		if($_GET['estado']=='RC'){
+			$estado='Recarga';
+		}
+		if($_GET['estado']=='NL'){
+			$estado='No Localizado';
+		}
+		if($_GET['estado']=='NULO'){
+			$estado='Nulo';
+			$nulo = 1;
+			$fecha_nulo = date('Y-m-d');
+		} 
+		$query = "UPDATE dispositivos SET tipo_dispositivo='".$_GET['tipo_disp']."', n_timbre='".$_GET['n_timbre']."', f_fabricacion='".$f_fabricacion."',
+			retimbrado='".$retimbrado."', ubicacion='".$_GET['ubicacion']."', intervencion='".$estado."', estado='".$_GET['estado']."', 
+			id_cliente='".$_GET['id_cliente']."', numero='".$_GET['numero']."', nulo='".$nulo."', fecha_nulo='".$fecha_nulo."' WHERE id='".$_GET['id_elemento']."'";
+		if ($conexion->query($query) === TRUE) {
+		}
+		else {
+		}
+	} else if ($tipo_revision == 3 || $tipo_revision == 4) {
+		$query = "UPDATE dispositivos_cont SET nombre='".$_GET['nombre']."', cantidad='".$_GET['cantidad']."', estado='".$_GET['estado']."', subtipo='".$_GET['tipo_revision']."', id_cliente='".$_GET['id_cliente']."' WHERE id='".$_GET['id_elemento']."'";
+		if ($conexion->query($query) === TRUE) {
+		}
+		else { 
+		}
 	}
 }
 include('formato/encabezado.php');

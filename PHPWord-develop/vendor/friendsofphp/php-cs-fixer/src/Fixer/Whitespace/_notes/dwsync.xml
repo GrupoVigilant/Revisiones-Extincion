@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayIndentationFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="BlankLineBeforeStatementFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="CompactNullableTypehintFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="IndentationTypeFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="LineEndingFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="MethodChainingIndentationFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="NoExtraBlankLinesFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="NoExtraConsecutiveBlankLinesFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="NoSpacesAroundOffsetFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="NoSpacesInsideParenthesisFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="NoTrailingWhitespaceFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="NoWhitespaceInBlankLineFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="SingleBlankLineAtEofFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+</dwsync>

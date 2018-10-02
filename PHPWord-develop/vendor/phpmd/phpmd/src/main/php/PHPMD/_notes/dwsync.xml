@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractNode.php" server="srv-datos/pruebasextincion/" local="131747843290000000" remote="131829535200000000" Dst="2" />
+<file name="AbstractRenderer.php" server="srv-datos/pruebasextincion/" local="131747843290000000" remote="131829535200000000" Dst="2" />
+<file name="AbstractRule.php" server="srv-datos/pruebasextincion/" local="131747843290000000" remote="131829535200000000" Dst="2" />
+<file name="AbstractWriter.php" server="srv-datos/pruebasextincion/" local="131747843290000000" remote="131829535200000000" Dst="2" />
+<file name="Parser.php" server="srv-datos/pruebasextincion/" local="131747843290000000" remote="131829535200000000" Dst="2" />
+<file name="ParserFactory.php" server="srv-datos/pruebasextincion/" local="131747843290000000" remote="131829535200000000" Dst="2" />
+<file name="PHPMD.php" server="srv-datos/pruebasextincion/" local="131747843290000000" remote="131829535200000000" Dst="2" />
+<file name="ProcessingError.php" server="srv-datos/pruebasextincion/" local="131747843290000000" remote="131829535200000000" Dst="2" />
+<file name="Report.php" server="srv-datos/pruebasextincion/" local="131747843290000000" remote="131829535200000000" Dst="2" />
+<file name="Rule.php" server="srv-datos/pruebasextincion/" local="131747843290000000" remote="131829535200000000" Dst="2" />
+<file name="RuleClassFileNotFoundException.php" server="srv-datos/pruebasextincion/" local="131747843300000000" remote="131829535200000000" Dst="2" />
+<file name="RuleClassNotFoundException.php" server="srv-datos/pruebasextincion/" local="131747843300000000" remote="131829535200000000" Dst="2" />
+<file name="RuleSet.php" server="srv-datos/pruebasextincion/" local="131747843300000000" remote="131829535200000000" Dst="2" />
+<file name="RuleSetFactory.php" server="srv-datos/pruebasextincion/" local="131747843300000000" remote="131829535200000000" Dst="2" />
+<file name="RuleSetNotFoundException.php" server="srv-datos/pruebasextincion/" local="131747843300000000" remote="131829535200000000" Dst="2" />
+<file name="RuleViolation.php" server="srv-datos/pruebasextincion/" local="131747843300000000" remote="131829535200000000" Dst="2" />
+</dwsync>

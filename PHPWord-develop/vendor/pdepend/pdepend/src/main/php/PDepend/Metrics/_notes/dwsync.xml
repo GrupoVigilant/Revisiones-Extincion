@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="AbstractCachingAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="AggregateAnalyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="Analyzer.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="AnalyzerCacheAware.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="AnalyzerFactory.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="AnalyzerFilterAware.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="AnalyzerIterator.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="AnalyzerListener.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="AnalyzerNodeAware.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+<file name="AnalyzerProjectAware.php" server="srv-datos/pruebasextincion/" local="131747843230000000" remote="131829534600000000" Dst="2" />
+</dwsync>

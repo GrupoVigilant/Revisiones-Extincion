@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ByteOrderMarkSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="EndFileNewlineSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="EndFileNoNewlineSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="InlineHTMLSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="LineEndingsSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="LineLengthSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="LowercasedFilenameSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="OneClassPerFileSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="OneInterfacePerFileSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+<file name="OneTraitPerFileSniff.php" server="srv-datos/pruebasextincion/" local="131747842480000000" remote="131829535800000000" Dst="2" />
+</dwsync>

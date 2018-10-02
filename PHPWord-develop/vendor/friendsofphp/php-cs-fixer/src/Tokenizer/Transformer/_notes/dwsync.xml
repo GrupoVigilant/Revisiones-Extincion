@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayTypehintTransformer.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="BraceClassInstantiationTransformer.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="ClassConstantTransformer.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="CurlyBraceTransformer.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="ImportTransformer.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="NamespaceOperatorTransformer.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="NullableTypeTransformer.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="ReturnRefTransformer.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="SquareBraceTransformer.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="TypeAlternationTransformer.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="TypeColonTransformer.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="UseTransformer.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="WhitespacyCommentTransformer.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractAlignFixerHelper.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="AbstractDoctrineAnnotationFixer.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="AbstractFixer.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="AbstractFunctionReferenceFixer.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="AbstractLinesBeforeNamespaceFixer.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="AbstractNoUselessElseFixer.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="AbstractPhpdocTypesFixer.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="AbstractProxyFixer.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="AbstractPsrAutoloadingFixer.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="Config.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="ConfigInterface.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="FileReader.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="FileRemoval.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="Finder.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="FixerFactory.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="FixerFileProcessedEvent.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="FixerNameValidator.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="PharChecker.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="PharCheckerInterface.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="Preg.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="PregException.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="RuleSet.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="RuleSetInterface.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="StdinFileInfo.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="ToolInfo.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="ToolInfoInterface.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="Utils.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="WhitespacesFixerConfig.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+<file name="WordMatcher.php" server="srv-datos/pruebasextincion/" local="131747843040000000" remote="131829534000000000" Dst="2" />
+</dwsync>

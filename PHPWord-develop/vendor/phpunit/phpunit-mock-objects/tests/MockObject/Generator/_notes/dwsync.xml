@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="232.phpt" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="abstract_class.phpt" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="class.phpt" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="class_call_parent_clone.phpt" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="class_call_parent_constructor.phpt" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="class_dont_call_parent_clone.phpt" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="class_dont_call_parent_constructor.phpt" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="class_implementing_interface_call_parent_constructor.phpt" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="class_implementing_interface_dont_call_parent_constructor.phpt" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="class_partial.phpt" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="class_with_method_named_method.phpt" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="class_with_method_with_variadic_arguments.phpt" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="interface.phpt" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="invocation_object_clone_object.phpt" server="srv-datos/pruebasextincion/" local="131747842030000000" remote="131829535200000000" Dst="2" />
+<file name="namespaced_class.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="namespaced_class_call_parent_clone.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="namespaced_class_call_parent_constructor.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="namespaced_class_dont_call_parent_clone.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="namespaced_class_dont_call_parent_constructor.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="namespaced_class_implementing_interface_call_parent_constructor.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="namespaced_class_implementing_interface_dont_call_parent_constructor.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="namespaced_class_partial.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="namespaced_interface.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="nonexistent_class.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="nonexistent_class_with_namespace.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="nonexistent_class_with_namespace_starting_with_separator.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="nullable_types.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="proxy.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="return_type_declarations_nullable.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="return_type_declarations_object_method.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="return_type_declarations_self.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="return_type_declarations_static_method.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="return_type_declarations_void.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="scalar_type_declarations.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="wsdl_class.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="wsdl_class_namespace.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+<file name="wsdl_class_partial.phpt" server="srv-datos/pruebasextincion/" local="131747842040000000" remote="131829535200000000" Dst="2" />
+</dwsync>

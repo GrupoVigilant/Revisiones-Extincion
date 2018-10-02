@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" server="srv-datos/pruebasextincion/" local="131747843170000000" remote="131829535800000000" Dst="2" />
+<file name="CHANGELOG.md" server="srv-datos/pruebasextincion/" local="131747843170000000" remote="131829535800000000" Dst="2" />
+<file name="composer.json" server="srv-datos/pruebasextincion/" local="131747843190000000" remote="131829535800000000" Dst="2" />
+<file name="ConfigCache.php" server="srv-datos/pruebasextincion/" local="131747843170000000" remote="131829535800000000" Dst="2" />
+<file name="ConfigCacheFactory.php" server="srv-datos/pruebasextincion/" local="131747843170000000" remote="131829535800000000" Dst="2" />
+<file name="ConfigCacheFactoryInterface.php" server="srv-datos/pruebasextincion/" local="131747843170000000" remote="131829535800000000" Dst="2" />
+<file name="ConfigCacheInterface.php" server="srv-datos/pruebasextincion/" local="131747843170000000" remote="131829535800000000" Dst="2" />
+<file name="FileLocator.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="FileLocatorInterface.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="LICENSE" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="phpunit.xml.dist" server="srv-datos/pruebasextincion/" local="131747843190000000" remote="131829535800000000" Dst="2" />
+<file name="README.md" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="ResourceCheckerConfigCache.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="ResourceCheckerConfigCacheFactory.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+<file name="ResourceCheckerInterface.php" server="srv-datos/pruebasextincion/" local="131747843180000000" remote="131829535800000000" Dst="2" />
+</dwsync>

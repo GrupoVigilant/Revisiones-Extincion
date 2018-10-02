@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="sesion.php" server="srv-datos/pruebasextincion/" local="131822460000000000" remote="131822460000000000" Dst="2" />
+<file name="conexion.php" server="srv-datos/pruebasextincion/" local="131829532827146932" remote="131829537000000000" Dst="2" />
+<file name="iniciar_revision_offline.php" server="srv-datos/pruebasextincion/" local="131819001081099248" remote="131822460000000000" Dst="2" />
+<file name="login.php" server="srv-datos/pruebasextincion/" local="131775790150229105" remote="131822463600000000" Dst="2" />
+<file name="index.php" server="srv-datos/pruebasextincion/" local="131769766514489116" remote="131822463600000000" Dst="2" />
+<file name="PHPWord.php" server="srv-datos/pruebasextincion/" local="131746104000000000" remote="131746104000000000" Dst="2" />
+<file name="class.phpmailer.php" server="srv-datos/pruebasextincion/" local="131747832000000000" remote="131747832000000000" Dst="2" />
+<file name="class.smtp.php" server="srv-datos/pruebasextincion/" local="131747832000000000" remote="131747832000000000" Dst="2" />
+<file name="enviar_revision.php" server="srv-datos/pruebasextincion/" local="131817224937986924" remote="131817224400000000" Dst="2" />
+<file name="finalizar_revision.php" server="srv-datos/pruebasextincion/" local="131816388358509330" remote="131816388000000000" Dst="2" />
+<file name="iniciar_revision.php" server="srv-datos/pruebasextincion/" local="131829555636209581" remote="131829555600000000" Dst="2" />
+<file name="iniciar_revision.php" server="srv-datos/extincion/" local="131829388800000000" remote="131829388800000000" Dst="2" />
+<file name="sesion.php" server="srv-datos/extincion/" local="131822460000000000" remote="131822460000000000" Dst="2" />
+<file name="conexion.php" server="srv-datos/extincion/" local="131822460000000000" remote="131822460000000000" Dst="2" />
+<file name=".gitattributes" server="srv-datos/pruebasextincion/" local="131816393823602791" remote="131829537000000000" Dst="2" />
+<file name="1530299898.docx" server="srv-datos/pruebasextincion/" local="131747734980000000" remote="131829537000000000" Dst="2" />
+<file name="anadir_dispositivo.php" server="srv-datos/pruebasextincion/" local="131765606743551885" remote="131829537000000000" Dst="2" />
+<file name="app.js" server="srv-datos/pruebasextincion/" local="131746751970000000" remote="131829537000000000" Dst="2" />
+<file name="editar_revision.php" server="srv-datos/pruebasextincion/" local="131770634925555845" remote="131829537000000000" Dst="2" />
+<file name="estilo.css" server="srv-datos/pruebasextincion/" local="131769020028985942" remote="131829537000000000" Dst="2" />
+<file name="extincion.sql" server="srv-datos/pruebasextincion/" local="131816416815419190" remote="131829537000000000" Dst="2" />
+<file name="ficha_tecnica.php" server="srv-datos/pruebasextincion/" local="131774122414728831" remote="131829537000000000" Dst="2" />
+<file name="firma_cliente.html" server="srv-datos/pruebasextincion/" local="131746751960000000" remote="131829537000000000" Dst="2" />
+<file name="firma_cliente.js" server="srv-datos/pruebasextincion/" local="131746751960000000" remote="131829537000000000" Dst="2" />
+<file name="firma_cliente.php" server="srv-datos/pruebasextincion/" local="131770646673321040" remote="131829537000000000" Dst="2" />
+<file name="firma_tecnico.php" server="srv-datos/pruebasextincion/" local="131770646877242652" remote="131829537000000000" Dst="2" />
+<file name="guardar_cliente.php" server="srv-datos/pruebasextincion/" local="131816596918247288" remote="131829537000000000" Dst="2" />
+<file name="html5-canvas-drawing-app.js" server="srv-datos/pruebasextincion/" local="131746751940000000" remote="131829537000000000" Dst="2" />
+<file name="listado_clientes.php" server="srv-datos/pruebasextincion/" local="131786550100867763" remote="131829537000000000" Dst="2" />
+<file name="modelo_acta - copia.docx" server="srv-datos/pruebasextincion/" local="131747572730000000" remote="131829537000000000" Dst="2" />
+<file name="modelo_acta.docx" server="srv-datos/pruebasextincion/" local="131777699475691658" remote="131829537000000000" Dst="2" />
+<file name="modelo_acta_cont.docx" server="srv-datos/pruebasextincion/" local="131777601402719277" remote="131829537000000000" Dst="2" />
+<file name="registrar.php" server="srv-datos/pruebasextincion/" local="131770779656869000" remote="131829537000000000" Dst="2" />
+<file name="registrar_cliente.html" server="srv-datos/pruebasextincion/" local="131746751930000000" remote="131829537000000000" Dst="2" />
+<file name="registrar_cliente.php" server="srv-datos/pruebasextincion/" local="131816597091618159" remote="131829537000000000" Dst="2" />
+<file name="registrar_tipo.html" server="srv-datos/pruebasextincion/" local="131746751920000000" remote="131829537000000000" Dst="2" />
+<file name="registrar_tipo.php" server="srv-datos/pruebasextincion/" local="131765611938068279" remote="131829537000000000" Dst="2" />
+<file name="registro.html" server="srv-datos/pruebasextincion/" local="131746751920000000" remote="131829537000000000" Dst="2" />
+<file name="registro.php" server="srv-datos/pruebasextincion/" local="131770770155448776" remote="131829537000000000" Dst="2" />
+<file name="registro_cliente.php" server="srv-datos/pruebasextincion/" local="131816597021531888" remote="131829537000000000" Dst="2" />
+<file name="registro_revision.php" server="srv-datos/pruebasextincion/" local="131780219002785118" remote="131829537000000000" Dst="2" />
+<file name="registro_tipo.php" server="srv-datos/pruebasextincion/" local="131765613230039331" remote="131829537000000000" Dst="2" />
+<file name="revisiones.php" server="srv-datos/pruebasextincion/" local="131770648739018054" remote="131829537000000000" Dst="2" />
+<file name="signature-pad.css" server="srv-datos/pruebasextincion/" local="131746751910000000" remote="131829537000000000" Dst="2" />
+<file name="signature_pad.umd.js" server="srv-datos/pruebasextincion/" local="131746751910000000" remote="131829537000000000" Dst="2" />
+</dwsync>

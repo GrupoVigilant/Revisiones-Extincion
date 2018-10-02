@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Cache.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="CacheInterface.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="CacheManagerInterface.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="Directory.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="DirectoryInterface.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="FileCacheManager.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="FileHandler.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="FileHandlerInterface.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="NullCacheManager.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="Signature.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+<file name="SignatureInterface.php" server="srv-datos/pruebasextincion/" local="131747843000000000" remote="131829534000000000" Dst="2" />
+</dwsync>

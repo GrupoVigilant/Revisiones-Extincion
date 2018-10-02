@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="PhpUnitConstructFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpUnitDedicateAssertFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpUnitExpectationFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpUnitFqcnAnnotationFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpUnitInternalClassFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpUnitMockFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpUnitNamespacedFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpUnitNoExpectationAnnotationFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpUnitOrderedCoversFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpUnitSetUpTearDownVisibilityFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpUnitStrictFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpUnitTargetVersion.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpUnitTestAnnotationFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpUnitTestCaseStaticMethodCallsFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpUnitTestClassRequiresCoversFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+</dwsync>

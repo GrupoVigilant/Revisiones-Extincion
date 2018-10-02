@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AlignMultilineCommentFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="GeneralPhpdocAnnotationRemoveFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="NoBlankLinesAfterPhpdocFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="NoEmptyPhpdocFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="NoSuperfluousPhpdocTagsFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocAddMissingParamAnnotationFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocAlignFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocAnnotationWithoutDotFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocIndentFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocInlineTagFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocNoAccessFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocNoAliasTagFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocNoEmptyReturnFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocNoPackageFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocNoUselessInheritdocFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocOrderFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocReturnSelfReferenceFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocScalarFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocSeparationFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocSingleLineVarSpacingFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocSummaryFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocToCommentFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocTrimConsecutiveBlankLineSeparationFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocTrimFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocTypesFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocTypesOrderFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+<file name="PhpdocVarWithoutNameFixer.php" server="srv-datos/pruebasextincion/" local="131747843030000000" remote="131829534000000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Annotation.php" server="srv-datos/pruebasextincion/" local="131747842890000000" remote="131829534000000000" Dst="2" />
+<file name="AnnotationException.php" server="srv-datos/pruebasextincion/" local="131747842890000000" remote="131829534000000000" Dst="2" />
+<file name="AnnotationReader.php" server="srv-datos/pruebasextincion/" local="131747842890000000" remote="131829534000000000" Dst="2" />
+<file name="AnnotationRegistry.php" server="srv-datos/pruebasextincion/" local="131747842890000000" remote="131829534000000000" Dst="2" />
+<file name="CachedReader.php" server="srv-datos/pruebasextincion/" local="131747842890000000" remote="131829534000000000" Dst="2" />
+<file name="DocLexer.php" server="srv-datos/pruebasextincion/" local="131747842890000000" remote="131829534000000000" Dst="2" />
+<file name="DocParser.php" server="srv-datos/pruebasextincion/" local="131747842890000000" remote="131829534000000000" Dst="2" />
+<file name="FileCacheReader.php" server="srv-datos/pruebasextincion/" local="131747842890000000" remote="131829534000000000" Dst="2" />
+<file name="IndexedReader.php" server="srv-datos/pruebasextincion/" local="131747842890000000" remote="131829534000000000" Dst="2" />
+<file name="PhpParser.php" server="srv-datos/pruebasextincion/" local="131747842890000000" remote="131829534000000000" Dst="2" />
+<file name="Reader.php" server="srv-datos/pruebasextincion/" local="131747842890000000" remote="131829534000000000" Dst="2" />
+<file name="SimpleAnnotationReader.php" server="srv-datos/pruebasextincion/" local="131747842890000000" remote="131829534000000000" Dst="2" />
+<file name="TokenParser.php" server="srv-datos/pruebasextincion/" local="131747842890000000" remote="131829534000000000" Dst="2" />
+</dwsync>

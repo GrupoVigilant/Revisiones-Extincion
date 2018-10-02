@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ElseifFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="IncludeFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="NoAlternativeSyntaxFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="NoBreakCommentFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="NoSuperfluousElseifFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="NoTrailingCommaInListCallFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="NoUnneededControlParenthesesFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="NoUnneededCurlyBracesFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="NoUselessElseFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="SwitchCaseSemicolonToColonFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="SwitchCaseSpaceFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="YodaStyleFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+</dwsync>

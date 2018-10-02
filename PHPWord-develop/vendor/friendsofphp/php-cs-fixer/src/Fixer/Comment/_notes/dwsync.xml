@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommentToPhpdocFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="HashToSlashCommentFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="HeaderCommentFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="MultilineCommentOpeningClosingFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="NoEmptyCommentFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="NoTrailingWhitespaceInCommentFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="SingleLineCommentStyleFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+</dwsync>

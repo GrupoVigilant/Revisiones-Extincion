@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassKeywordRemoveFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="CombineConsecutiveIssetsFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="CombineConsecutiveUnsetsFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="DeclareEqualNormalizeFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="DirConstantFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="ErrorSuppressionFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="ExplicitIndirectVariableFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="FunctionToConstantFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="IsNullFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="NoUnsetOnPropertyFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="SilencedDeprecationErrorFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+</dwsync>

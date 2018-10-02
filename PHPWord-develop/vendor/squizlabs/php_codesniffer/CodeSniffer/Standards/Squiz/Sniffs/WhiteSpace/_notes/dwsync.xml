@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CastSpacingSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="ControlStructureSpacingSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="FunctionClosingBraceSpaceSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="FunctionOpeningBraceSpaceSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="FunctionSpacingSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="LanguageConstructSpacingSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="LogicalOperatorSpacingSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="MemberVarSpacingSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="ObjectOperatorSpacingSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="OperatorSpacingSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="PropertyLabelSpacingSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="ScopeClosingBraceSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="ScopeKeywordSpacingSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="SemicolonSpacingSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+<file name="SuperfluousWhitespaceSniff.php" server="srv-datos/pruebasextincion/" local="131747842510000000" remote="131829535800000000" Dst="2" />
+</dwsync>

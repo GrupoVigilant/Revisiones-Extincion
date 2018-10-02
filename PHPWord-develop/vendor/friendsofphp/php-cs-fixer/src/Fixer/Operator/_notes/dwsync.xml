@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AlignDoubleArrowFixerHelper.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="AlignEqualsFixerHelper.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="BinaryOperatorSpacesFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="ConcatSpaceFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="IncrementStyleFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="LogicalOperatorsFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="NewWithBracesFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="NotOperatorWithSpaceFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="NotOperatorWithSuccessorSpaceFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="ObjectOperatorWithoutWhitespaceFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="PreIncrementFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="StandardizeIncrementFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="StandardizeNotEqualsFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="TernaryOperatorSpacesFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="TernaryToNullCoalescingFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+<file name="UnaryOperatorSpacesFixer.php" server="srv-datos/pruebasextincion/" local="131747843020000000" remote="131829534000000000" Dst="2" />
+</dwsync>

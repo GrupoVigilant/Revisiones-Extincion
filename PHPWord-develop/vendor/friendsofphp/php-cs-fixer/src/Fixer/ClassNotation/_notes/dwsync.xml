@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassAttributesSeparationFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="ClassDefinitionFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="FinalInternalClassFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="MethodSeparationFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="NoBlankLinesAfterClassOpeningFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="NoNullPropertyInitializationFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="NoPhp4ConstructorFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="NoUnneededFinalMethodFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="OrderedClassElementsFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="ProtectedToPrivateFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="SelfAccessorFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="SingleClassElementPerStatementFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+<file name="VisibilityRequiredFixer.php" server="srv-datos/pruebasextincion/" local="131747843010000000" remote="131829534000000000" Dst="2" />
+</dwsync>

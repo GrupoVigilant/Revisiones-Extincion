@@ -1,0 +1,6 @@
+[2018-09-24 09:07:43.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=112 - esEditar=0
+[2018-09-24 09:08:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - GET - id_cliente=112 - id_revision=236 - tipo_revision= - email= - nombre_firma= 
+- obs_extintor= - obs_bie= - obs_deteccion= - obs_extincion= - obs_bateria=
+[2018-09-24 09:08:44.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Guardar Mail - id_cliente=112 - email= - nombre_firma=
+[2018-09-24 09:08:45.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Email Enviado 
+[2018-09-24 09:08:45.000000 192.168.1.1 - tecnico - Info ] Página Enviar Revisión - Revisión Finalizada - id_revision=236 - n_revision=

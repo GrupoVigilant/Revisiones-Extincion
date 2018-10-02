@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AnalyzeServiceReferencesPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="AutoAliasServicePassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="AutowirePassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="AutowireRequiredMethodsPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="CheckArgumentsValidityPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="CheckCircularReferencesPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="CheckDefinitionValidityPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="CheckExceptionOnInvalidReferenceBehaviorPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="CheckReferenceValidityPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="DecoratorServicePassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="DefinitionErrorExceptionPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="ExtensionCompilerPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="InlineServiceDefinitionsPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="IntegrationTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="MergeExtensionConfigurationPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="OptionalServiceClass.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="PassConfigTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="PriorityTaggedServiceTraitTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="RegisterEnvVarProcessorsPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="RegisterServiceSubscribersPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="RemoveUnusedDefinitionsPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="ReplaceAliasByActualDefinitionPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="ResolveBindingsPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829535800000000" Dst="2" />
+<file name="ResolveChildDefinitionsPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="ResolveClassPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="ResolveFactoryClassPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="ResolveHotPathPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="ResolveInstanceofConditionalsPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="ResolveInvalidReferencesPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="ResolveNamedArgumentsPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="ResolveParameterPlaceHoldersPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="ResolvePrivatesPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="ResolveReferencesToAliasesPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="ResolveTaggedIteratorArgumentPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+<file name="ValidateEnvPlaceholdersPassTest.php" server="srv-datos/pruebasextincion/" local="131747843130000000" remote="131829536400000000" Dst="2" />
+</dwsync>

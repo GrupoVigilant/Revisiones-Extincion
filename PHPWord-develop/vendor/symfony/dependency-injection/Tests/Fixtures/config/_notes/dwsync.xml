@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="anonymous.expected.yml" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="anonymous.php" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="basic.expected.yml" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="basic.php" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="child.expected.yml" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="child.php" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="defaults.expected.yml" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="defaults.php" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="factory_short_notation.php" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="instanceof.expected.yml" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="instanceof.php" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="object.expected.yml" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="object.php" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="php7.expected.yml" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="php7.php" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="prototype.expected.yml" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="prototype.php" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="services9.php" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+<file name="services_autoconfigure_with_parent.php" server="srv-datos/pruebasextincion/" local="131747843140000000" remote="131829536400000000" Dst="2" />
+</dwsync>

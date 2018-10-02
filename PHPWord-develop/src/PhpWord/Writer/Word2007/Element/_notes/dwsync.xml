@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractElement.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="Bookmark.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="Chart.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="CheckBox.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="Container.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="Endnote.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="Field.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="Footnote.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="FormField.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="Image.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="Line.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="Link.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="ListItem.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="ListItemRun.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="OLEObject.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="PageBreak.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="ParagraphAlignment.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="PreserveText.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="SDT.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="Shape.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="Table.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="TableAlignment.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="Text.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="TextBox.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="TextBreak.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="TextRun.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="Title.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+<file name="TOC.php" server="srv-datos/pruebasextincion/" local="131725013720000000" remote="131829534000000000" Dst="2" />
+</dwsync>

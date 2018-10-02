@@ -2,7 +2,7 @@
 $host_db = "localhost";
 $user_db = "root";
 $pass_db = "Vigilant765@";
-$db_name = "extincion";
+$db_name = "pruebas";
 
 $conexion = new mysqli($host_db,$user_db,$pass_db, $db_name);
 $conexion->set_charset("utf8");

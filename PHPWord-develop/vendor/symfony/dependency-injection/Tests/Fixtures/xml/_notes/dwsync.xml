@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class_from_id.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="invalid_alias_definition.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="namespaces.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="nested_service_without_id.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="nonvalid.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services1.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services10.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services13.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services14.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services2.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services21.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services23.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services24.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services28.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services3.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services4.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services4_bad_import.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services5.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services6.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services7.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services8.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services9.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services_abstract.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services_autoconfigure.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services_autoconfigure_with_parent.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services_bindings.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services_case.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services_defaults_with_parent.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services_deprecated.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services_dump_load.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services_inline_not_candidate.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services_instanceof.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services_instanceof_with_parent.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services_named_args.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services_prototype.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="services_without_id.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="tag_with_empty_name.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="tag_without_name.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="with_key_outside_collection.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="withdoctype.xml" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+<file name="xml_with_wrong_ext.php" server="srv-datos/pruebasextincion/" local="131747843150000000" remote="131829536400000000" Dst="2" />
+</dwsync>

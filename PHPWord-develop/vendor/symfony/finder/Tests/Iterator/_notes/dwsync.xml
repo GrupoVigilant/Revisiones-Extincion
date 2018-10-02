@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CustomFilterIteratorTest.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+<file name="DateRangeFilterIteratorTest.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+<file name="DepthRangeFilterIteratorTest.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+<file name="ExcludeDirectoryFilterIteratorTest.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+<file name="FilecontentFilterIteratorTest.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+<file name="FilenameFilterIteratorTest.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+<file name="FileTypeFilterIteratorTest.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+<file name="Iterator.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+<file name="IteratorTestCase.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+<file name="MockFileListIterator.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+<file name="MockSplFileInfo.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+<file name="MultiplePcreFilterIteratorTest.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+<file name="PathFilterIteratorTest.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+<file name="RealIteratorTestCase.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+<file name="RecursiveDirectoryIteratorTest.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+<file name="SizeRangeFilterIteratorTest.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+<file name="SortableIteratorTest.php" server="srv-datos/pruebasextincion/" local="131747842690000000" remote="131829536400000000" Dst="2" />
+</dwsync>

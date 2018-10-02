@@ -1,0 +1,88 @@
+[2018-09-26 08:24:32.000000 31.4.194.161 - 606 - Info ] Página Listado Documentos Revisión- GET - id_revision=194 - id_cliente=97
+[2018-09-26 08:24:32.000000 31.4.194.161 - 606 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 97
+[2018-09-26 08:24:32.000000 31.4.194.161 - 606 - Info ] Página Listado Documentos Revisión - nombre_cliente=TERRAZOS MIRANDA,S.L.
+[2018-09-26 08:24:32.000000 31.4.194.161 - 606 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 194
+[2018-09-26 08:24:32.000000 31.4.194.161 - 606 - Info ] Página Listado Documentos Revisión - ruta=./partes/D214419-Extintor-1.docx - nombreDoc=D214419-Extintor-1.docxtipo=Extintor
+[2018-09-26 11:49:31.000000 192.168.1.1 -  - Info ] Página Ficha de cliente- GET - id_cliente=82 - esEditar=0
+[2018-09-26 11:49:35.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión- GET - id_revision=158 - id_cliente=82
+[2018-09-26 11:49:35.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 82
+[2018-09-26 11:49:35.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - nombre_cliente=HOTEL ALHAMBRA PALACE S.A.
+[2018-09-26 11:49:35.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 158
+[2018-09-26 11:49:35.000000 192.168.1.1 - tecnico - Info ] Página Listado Documentos Revisión - ruta=./partes/D211528-Detección-1.docx - nombreDoc=D211528-Detección-1.docxtipo=Detección
+[2018-09-26 11:57:30.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión- GET - id_revision=158 - id_cliente=82
+[2018-09-26 11:57:30.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 82
+[2018-09-26 11:57:30.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - nombre_cliente=HOTEL ALHAMBRA PALACE S.A.
+[2018-09-26 11:57:30.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 158
+[2018-09-26 11:57:30.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - ruta=./partes/D211528-Detección-1.docx - nombreDoc=D211528-Detección-1.docxtipo=Detección
+[2018-09-26 17:38:40.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión- GET - id_revision=158 - id_cliente=82
+[2018-09-26 17:38:40.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 82
+[2018-09-26 17:38:40.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - nombre_cliente=HOTEL ALHAMBRA PALACE S.A.
+[2018-09-26 17:38:40.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 158
+[2018-09-26 17:38:40.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - ruta=./partes/D211528-Detección-1.docx - nombreDoc=D211528-Detección-1.docxtipo=Detección
+[2018-09-26 18:10:02.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión- GET - id_revision=242 - id_cliente=101
+[2018-09-26 18:10:02.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 101
+[2018-09-26 18:10:02.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - nombre_cliente=SIERVAS DE SAN JOSE CASA MADRE
+[2018-09-26 18:10:02.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 242
+[2018-09-26 18:10:02.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-26 18:10:02.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-26 18:10:02.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-26 18:10:02.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-26 18:10:02.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-26 18:10:02.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-26 18:10:02.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-26 18:10:02.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-26 18:10:02.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-26 18:10:02.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-26 18:10:02.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-26 18:10:02.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-26 18:10:39.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión- GET - id_revision=242 - id_cliente=101
+[2018-09-26 18:10:39.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 101
+[2018-09-26 18:10:39.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - nombre_cliente=SIERVAS DE SAN JOSE CASA MADRE
+[2018-09-26 18:10:39.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 242
+[2018-09-26 18:10:39.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-26 18:10:39.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-26 18:10:39.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-26 18:10:39.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-26 18:10:39.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-26 18:10:39.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-26 18:10:39.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-26 18:10:39.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-26 18:10:39.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-26 18:10:39.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-26 18:10:39.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-1.docx - nombreDoc=D213405-Extintor-1.docxtipo=Extintor
+[2018-09-26 18:10:39.000000 31.4.221.44 - 603 - Info ] Página Listado Documentos Revisión - ruta=./partes/D213405-Extintor-2.docx - nombreDoc=D213405-Extintor-2.docxtipo=Extintor
+[2018-09-26 18:23:18.000000 31.4.196.138 - 602 - Info ] Página Enviar Revisión - GET - id_cliente=82 - id_revision=206 - tipo_revision= - email=serviciotecnico@h-alhambrapalace.con;tecnico602@grupovigilant.com - nombre_firma=JOSELUIS ALARCOM 
+- obs_extintor= - obs_bie= - obs_deteccion= - obs_extincion= - obs_bateria=
+[2018-09-26 18:23:18.000000 31.4.196.138 - 602 - Info ] Página Enviar Revisión - Guardar Mail - id_cliente=82 - email=serviciotecnico@h-alhambrapalace.con;tecnico602@grupovigilant.com - nombre_firma=JOSELUIS ALARCOM
+[2018-09-26 18:23:18.000000 31.4.196.138 - 602 - Info ] Página Enviar Revisión - Email Enviado 
+[2018-09-26 18:23:18.000000 31.4.196.138 - 602 - Info ] Página Enviar Revisión - Revisión Finalizada - id_revision=206 - n_revision=
+[2018-09-26 18:23:54.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión- GET - id_revision=206 - id_cliente=82
+[2018-09-26 18:23:54.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 82
+[2018-09-26 18:23:54.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - nombre_cliente=HOTEL ALHAMBRA PALACE S.A.
+[2018-09-26 18:23:54.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 206
+[2018-09-26 18:23:54.000000 31.4.196.138 - 602 - Error ] Página Listado Documentos Revisión - ruta= - nombreDoc=tipo= - Error=
+[2018-09-26 18:24:07.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión- GET - id_revision=206 - id_cliente=82
+[2018-09-26 18:24:07.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 82
+[2018-09-26 18:24:07.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - nombre_cliente=HOTEL ALHAMBRA PALACE S.A.
+[2018-09-26 18:24:07.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 206
+[2018-09-26 18:24:07.000000 31.4.196.138 - 602 - Error ] Página Listado Documentos Revisión - ruta= - nombreDoc=tipo= - Error=
+[2018-09-26 18:25:13.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión- GET - id_revision=158 - id_cliente=82
+[2018-09-26 18:25:13.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 82
+[2018-09-26 18:25:13.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - nombre_cliente=HOTEL ALHAMBRA PALACE S.A.
+[2018-09-26 18:25:13.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 158
+[2018-09-26 18:25:13.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - ruta=./partes/D211528-Detección-1.docx - nombreDoc=D211528-Detección-1.docxtipo=Detección
+[2018-09-26 18:25:19.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión- GET - id_revision=206 - id_cliente=82
+[2018-09-26 18:25:19.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 82
+[2018-09-26 18:25:19.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - nombre_cliente=HOTEL ALHAMBRA PALACE S.A.
+[2018-09-26 18:25:19.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 206
+[2018-09-26 18:25:19.000000 31.4.196.138 - 602 - Error ] Página Listado Documentos Revisión - ruta= - nombreDoc=tipo= - Error=
+[2018-09-26 18:25:43.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión- GET - id_revision=158 - id_cliente=82
+[2018-09-26 18:25:43.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 82
+[2018-09-26 18:25:43.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - nombre_cliente=HOTEL ALHAMBRA PALACE S.A.
+[2018-09-26 18:25:43.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 158
+[2018-09-26 18:25:43.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - ruta=./partes/D211528-Detección-1.docx - nombreDoc=D211528-Detección-1.docxtipo=Detección
+[2018-09-26 18:26:05.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión- GET - id_revision=206 - id_cliente=82
+[2018-09-26 18:26:05.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT nombre_cliente FROM Clientes WHERE id = 82
+[2018-09-26 18:26:05.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - nombre_cliente=HOTEL ALHAMBRA PALACE S.A.
+[2018-09-26 18:26:05.000000 31.4.196.138 - 602 - Info ] Página Listado Documentos Revisión - Ejecutando=SELECT ruta, tipo FROM documentos WHERE id_revision = 206
+[2018-09-26 18:26:05.000000 31.4.196.138 - 602 - Error ] Página Listado Documentos Revisión - ruta= - nombreDoc=tipo= - Error=

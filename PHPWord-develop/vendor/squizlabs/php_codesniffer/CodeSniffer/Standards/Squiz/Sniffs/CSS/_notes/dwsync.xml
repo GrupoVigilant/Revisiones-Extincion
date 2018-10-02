@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ClassDefinitionClosingBraceSpaceSniff.php" server="srv-datos/pruebasextincion/" local="131747842490000000" remote="131829535800000000" Dst="2" />
+<file name="ClassDefinitionNameSpacingSniff.php" server="srv-datos/pruebasextincion/" local="131747842490000000" remote="131829535800000000" Dst="2" />
+<file name="ClassDefinitionOpeningBraceSpaceSniff.php" server="srv-datos/pruebasextincion/" local="131747842490000000" remote="131829535800000000" Dst="2" />
+<file name="ColonSpacingSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="ColourDefinitionSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="DisallowMultipleStyleDefinitionsSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="DuplicateClassDefinitionSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="DuplicateStyleDefinitionSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="EmptyClassDefinitionSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="EmptyStyleDefinitionSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="ForbiddenStylesSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="IndentationSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="LowercaseStyleDefinitionSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="MissingColonSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="NamedColoursSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="OpacitySniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="SemicolonSpacingSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+<file name="ShorthandSizeSniff.php" server="srv-datos/pruebasextincion/" local="131747842500000000" remote="131829535800000000" Dst="2" />
+</dwsync>
