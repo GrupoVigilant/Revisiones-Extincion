@@ -42,6 +42,22 @@ if($_GET['nuevo']=='1'){
 }
 $n_revision = $_GET['n_revision'];
 
+if (isset($_GET['borrar'])){
+	if ($tipo_revision == 1 || $tipo_revision == 2 || $tipo_revision == 5){
+		$queryBorrar='DELETE FROM dispositivos WHERE id='.$_GET['id_elemento'];
+		if ($conexion->query($queryBorrar) === TRUE) {
+			}
+		else {
+		}
+	} else if ($tipo_revision == 3 || $tipo_revision == 4) {
+		$queryBorrar='DELETE FROM dispositivos_cont WHERE id='.$_GET['id_elemento'];
+		if ($conexion->query($queryBorrar) === TRUE) {
+			}
+		else {
+		}
+	}
+}
+
 if($guardar){
 	if ($tipo_revision == 1 || $tipo_revision == 2 || $tipo_revision == 5){
 		$f_fabricacion = $_GET['f_fabricacion'];
@@ -206,7 +222,7 @@ if ($tipo_revision == 1 || $tipo_revision == 2 || $tipo_revision == 5){
 			$numero = $row['numero'];
 			if($editar){
 				if($id_dispositivo==$_GET['id_elemento']){
-					if($usuario=='tecnico' || $usuario=='603' || $usuario=='606'){
+					if($usuario=='tecnico' || $usuario=='603' || $usuario=='602' || $usuario=='606'){
 						echo '
 						<li>
 							<form action="iniciar_revision.php" id="login" method="get" name="editar'.$id_dispositivo.'" target="_self">
@@ -240,7 +256,17 @@ if ($tipo_revision == 1 || $tipo_revision == 2 || $tipo_revision == 5){
 									<p><input name="entrar" type="submit" value="Guardar" onclick="document.forms[`editar'.$id_dispositivo.'`].submit();" /></p>
 								</a>
 							</form>
-						</li>';
+						</li>
+							<form action="iniciar_revision.php" id="login" method="get" name="borrar" target="_self">
+								<input type="hidden" id="id_elemento" name="id_elemento" value="'.$id_dispositivo.'">
+								<input type="hidden" name="borrar" value="1">
+								<input type="hidden" id="editar" name="editar" value="0">
+								<input type="hidden" id="n_revision" name="n_revision" value="'.$n_revision.'">
+								<input type="hidden" id="id_cliente" name="id_cliente" value="'.$id_cliente.'">
+								<input type="hidden" id="tipo_revision" name="tipo_revision" value="'.$tipo_revision.'">
+								<input type="hidden" id="id_revision" name="id_revision" value="'.$id_revision.'">
+								<li><p><input type="button" onclick="document.forms[`borrar`].submit();" value="Borrar Elemento"></p></li>
+							</form>';
 					} else {
 						echo '
 						<li>
@@ -442,7 +468,7 @@ if ($tipo_revision == 1 || $tipo_revision == 2 || $tipo_revision == 5){
 			$estado = $row['estado'];
 			if($editar){
 				if($id_dispositivo==$_GET['id_elemento']){
-					if($usuario=='tecnico' || $usuario='603' || $usuario='606'){
+					if($usuario=='tecnico' || $usuario=='602' || $usuario='603' || $usuario='606'){
 						echo '
 						<li>
 							<form action="iniciar_revision.php" id="login" method="get" name="editar'.$id_dispositivo.'" target="_self">
@@ -462,7 +488,19 @@ if ($tipo_revision == 1 || $tipo_revision == 2 || $tipo_revision == 5){
 									<p><input name="entrar" type="submit" value="Guardar" onclick="document.forms[`editar'.$id_dispositivo.'`].submit();" /></p>
 								</a>
 							</form>
-						</li>';
+						</li>
+						
+							<form action="iniciar_revision.php" id="login" method="get" name="borrar" target="_self">
+								<input type="hidden" id="id_elemento" name="id_elemento" value="'.$id_dispositivo.'">
+								<input type="hidden" name="borrar" value="1">
+								<input type="hidden" id="editar" name="editar" value="0">
+								<input type="hidden" id="n_revision" name="n_revision" value="'.$n_revision.'">
+								<input type="hidden" id="id_cliente" name="id_cliente" value="'.$id_cliente.'">
+								<input type="hidden" id="tipo_revision" name="tipo_revision" value="'.$tipo_revision.'">
+								<input type="hidden" id="id_revision" name="id_revision" value="'.$id_revision.'">
+								<li><p><input type="button" onclick="document.forms[`borrar`].submit();" value="Borrar Elemento"></p></li>
+							</form>
+							';
 					} else {
 						echo '
 						<li>
