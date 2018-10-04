@@ -718,6 +718,7 @@ echo '
 </div>
 </div>
 </div>
+<!-- Script para bajar al final de la página -->
 <script>
 	$(window).ready(function(){
 		$("html, body").animate({ scrollTop: $(document).height()});    
