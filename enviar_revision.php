@@ -27,6 +27,7 @@ include('class.smtp.php');
 $id_cliente = $_POST['id_cliente'];
 $id_revision = $_POST['id_revision'];
 $tipo_revision = $_POST['tipo_revision'];
+$fechaProx = $_POST['fecha_prox'];
 $email = $_POST['email'];
 $nombre_firma = $_POST['nombre_firma'];
 $obs_extintor = $_POST['obs_extintor'];
@@ -35,6 +36,9 @@ $obs_deteccion = $_POST['obs_deteccion'];
 $obs_extincion = $_POST['obs_extincion'];
 $obs_bateria = $_POST['obs_bateria'];
 $certificado = $_POST['certificado'];
+
+// Cambiamos el formato de fecha de Próxima Revisión
+$fechaProx = date('d/m/Y',strtotime($fechaProx));
 
 write_log('Página Enviar Revisión - GET - id_cliente='.$id_cliente.' - id_revision='.$id_revision.' - tipo_revision='.$tipo_revision.' - email='.$email.' - nombre_firma='.$nombre_firma.' 
 - obs_extintor='.$obs_extintor.' - obs_bie='.$obs_bie.' - obs_deteccion='.$obs_deteccion.' - obs_extincion='.$obs_extincion.' - obs_bateria='.$obs_bateria,'Info');
@@ -140,6 +144,7 @@ if ($subtipo == 1 || $subtipo == 2 || $subtipo == 5){
 					$documento->setValue('direccion', prepara_texto($direccion));
 					$documento->setValue('emplazamiento', prepara_texto($emplazamiento));
 					$documento->setValue('tecnico', prepara_texto($tecnico));
+					$documento->setValue('prox_revision', prepara_texto($fechaProx));
 					write_log('Página '.$tituloPag.' - Documento - nombre_titular='.$nombre_cliente.' - direccion='.$direccion.' - emplazamiento='.$emplazamiento.' - tecnico='.$tecnico,'Info');
 
 					if($subtipo==1){
@@ -362,6 +367,7 @@ if ($subtipo == 1 || $subtipo == 2 || $subtipo == 5){
 					$documento->setValue('direccion', prepara_texto($direccion));
 					$documento->setValue('emplazamiento', prepara_texto($emplazamiento));
 					$documento->setValue('tecnico', prepara_texto($tecnico));
+					$documento->setValue('prox_revision', prepara_texto($fechaProx));
 					write_log('Página '.$tituloPag.' - Documento - nombre_titular='.$nombre_cliente.' - direccion='.$direccion.' - emplazamiento='.$emplazamiento.' - tecnico='.$tecnico,'Info');
 
 					if($subtipo==1){

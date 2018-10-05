@@ -8,8 +8,8 @@
 <file name="PHPWord.php" server="srv-datos/pruebasextincion/" local="131746104000000000" remote="131746104000000000" Dst="2" />
 <file name="class.phpmailer.php" server="srv-datos/pruebasextincion/" local="131747832000000000" remote="131747832000000000" Dst="2" />
 <file name="class.smtp.php" server="srv-datos/pruebasextincion/" local="131747832000000000" remote="131747832000000000" Dst="2" />
-<file name="enviar_revision.php" server="srv-datos/pruebasextincion/" local="131831220718061125" remote="131831220600000000" Dst="2" />
-<file name="finalizar_revision.php" server="srv-datos/pruebasextincion/" local="131816388358509330" remote="131816388000000000" Dst="2" />
+<file name="enviar_revision.php" server="srv-datos/pruebasextincion/" local="131831918193086687" remote="131831917800000000" Dst="2" />
+<file name="finalizar_revision.php" server="srv-datos/pruebasextincion/" local="131831917607185739" remote="131831917800000000" Dst="2" />
 <file name="iniciar_revision.php" server="srv-datos/pruebasextincion/" local="131831173118132149" remote="131831172600000000" Dst="2" />
 <file name="iniciar_revision.php" server="srv-datos/extincion/" local="131829388800000000" remote="131829388800000000" Dst="2" />
 <file name="sesion.php" server="srv-datos/extincion/" local="131822460000000000" remote="131822460000000000" Dst="2" />
@@ -30,7 +30,7 @@
 <file name="html5-canvas-drawing-app.js" server="srv-datos/pruebasextincion/" local="131746751940000000" remote="131829537000000000" Dst="2" />
 <file name="listado_clientes.php" server="srv-datos/pruebasextincion/" local="131786550100867763" remote="131829537000000000" Dst="2" />
 <file name="modelo_acta - copia.docx" server="srv-datos/pruebasextincion/" local="131747572730000000" remote="131829537000000000" Dst="2" />
-<file name="modelo_acta.docx" server="srv-datos/pruebasextincion/" local="131777699475691658" remote="131829537000000000" Dst="2" />
+<file name="modelo_acta.docx" server="srv-datos/pruebasextincion/" local="131831247000000000" remote="131831247000000000" Dst="2" />
 <file name="modelo_acta_cont.docx" server="srv-datos/pruebasextincion/" local="131777601402719277" remote="131829537000000000" Dst="2" />
 <file name="registrar.php" server="srv-datos/pruebasextincion/" local="131770779656869000" remote="131829537000000000" Dst="2" />
 <file name="registrar_cliente.html" server="srv-datos/pruebasextincion/" local="131746751930000000" remote="131829537000000000" Dst="2" />
@@ -45,4 +45,6 @@
 <file name="revisiones.php" server="srv-datos/pruebasextincion/" local="131770648739018054" remote="131829537000000000" Dst="2" />
 <file name="signature-pad.css" server="srv-datos/pruebasextincion/" local="131746751910000000" remote="131829537000000000" Dst="2" />
 <file name="signature_pad.umd.js" server="srv-datos/pruebasextincion/" local="131746751910000000" remote="131829537000000000" Dst="2" />
+<file name="firma_cliente.png" server="srv-datos/pruebasextincion/" local="131813919240000000" remote="131831247600000000" Dst="-1" />
+<file name="firma_tecnico.png" server="srv-datos/pruebasextincion/" local="131813919240000000" remote="131831247600000000" Dst="-1" />
 </dwsync>

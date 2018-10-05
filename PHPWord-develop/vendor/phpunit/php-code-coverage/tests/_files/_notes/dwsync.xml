@@ -39,4 +39,15 @@
 <file name="source_with_oneline_annotations.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
 <file name="source_without_ignore.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
 <file name="source_without_namespace.php" server="srv-datos/pruebasextincion/" local="131747842210000000" remote="131829535200000000" Dst="2" />
+<file name="BankAccount-clover.xml" server="srv-datos/pruebasextincion/" local="131747842200000000" remote="131747832000000000" Dst="-1" />
+<file name="BankAccount-crap4j.xml" server="srv-datos/pruebasextincion/" local="131747842200000000" remote="131747832000000000" Dst="-1" />
+<file name="BankAccount-text.txt" server="srv-datos/pruebasextincion/" local="131747842200000000" remote="131747832000000000" Dst="-1" />
+<file name="BankAccount.php" server="srv-datos/pruebasextincion/" local="131747842200000000" remote="131747832000000000" Dst="-1" />
+<file name="BankAccountTest.php" server="srv-datos/pruebasextincion/" local="131747842200000000" remote="131747832000000000" Dst="-1" />
+<file name="CoverageClassExtendedTest.php" server="srv-datos/pruebasextincion/" local="131747842200000000" remote="131747832000000000" Dst="-1" />
+<file name="CoverageClassTest.php" server="srv-datos/pruebasextincion/" local="131747842200000000" remote="131747832000000000" Dst="-1" />
+<file name="CoverageFunctionParenthesesTest.php" server="srv-datos/pruebasextincion/" local="131747842200000000" remote="131747832000000000" Dst="-1" />
+<file name="CoverageFunctionParenthesesWhitespaceTest.php" server="srv-datos/pruebasextincion/" local="131747842200000000" remote="131747832000000000" Dst="-1" />
+<file name="CoverageFunctionTest.php" server="srv-datos/pruebasextincion/" local="131747842200000000" remote="131747832000000000" Dst="-1" />
+<file name="CoverageMethodOneLineAnnotationTest.php" server="srv-datos/pruebasextincion/" local="131747842200000000" remote="131747832000000000" Dst="-1" />
 </dwsync>
