@@ -2,8 +2,7 @@
 // Establecemos el tiempo máximo de ejecución de scripts
 set_time_limit(60);
 
-function write_log($cadena,$tipo)
-{
+function write_log($cadena,$tipo){
 	$usuario = $_SESSION['username'];
 	$arch = fopen("./logs/milog_".date("Y-m-d").".txt", "a+"); 
 
@@ -54,7 +53,7 @@ $queryMail = 'UPDATE clientes SET email="'.$email.'", nombre_firma="'.$nombre_fi
 $resultMail = mysqli_query($conexion,$queryMail);
 
 if ($conexion->query($queryMail) === TRUE) {
-	write_log('Página Enviar Revisión - Guardar Mail - id_cliente='.$id_cliente.' - email='.$email.' - nombre_firma='.$nombre_firma,'Info');
+	write_log('Página Enviar Revisión - Guardar Mail - id_cliente='.$id_cliente.' - email='.$email.' - nombre_firma='.$nombre_firma.' - Proxima='.$fechaProx,'Info');
 } else {
 	write_log('Página Enviar Revisión - Guardar Mail - id_cliente='.$id_cliente.' - email='.$email.' - nombre_firma='.$nombre_firma.' - Error='.$conexion->error,'Error');
 }
