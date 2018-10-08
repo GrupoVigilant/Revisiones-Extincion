@@ -8,7 +8,7 @@ $tituloPag = 'Error de inicio de sesi&oacute;n';
 if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {
 } else {
 	include('formato/encabezado.php');
-	header ("Location: http://extincion.grupovigilant.com:9024/index.php");
+	header ("Location: index.php");
 	exit;
 }
 
@@ -19,6 +19,6 @@ $usuario = $_SESSION['username'];
 if($date > $_SESSION['expire']) {
 	session_destroy();
 	include('formato/encabezado.php');
-	header ("Location: http://extincion.grupovigilant.com:9024/index.php");
+	header ("Location: index.php");
 }
 ?>
