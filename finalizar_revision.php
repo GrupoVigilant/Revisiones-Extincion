@@ -105,7 +105,7 @@ echo '
 	</a>
 	</form>
 	</li>
-	<form action="enviar_revision.php" id="login" method="post" name="registrar" target="_self">
+	<form action="enviar_revision.php" id="login" method="get" name="registrar" target="_self">
 	<input type="hidden" id="id_revision" name="id_revision" value='.$id_revision.'>
 	<input type="hidden" id="id_cliente" name="id_cliente" value='.$id_cliente.'>
 	<input type="hidden" id="tipo_revision" name="tipo_revision" value='.$tipo_revision.'>
@@ -133,11 +133,7 @@ if ($rowEmail = mysqli_fetch_array($resultEmail)){
 				
 echo '
 	<p><b>Próxima Revisión: </b><input type="date" name="fecha_prox" id="fecha_prox"></p>
-	<p><b>Observaciones Extintores: </b><textarea rows="3" cols="30" wrap="soft" name="obs_extintor"></textarea></p>
-	<p><b>Observaciones BIEs: </b><textarea rows="3" cols="30" wrap="soft" name="obs_bie"></textarea></p>
-	<p><b>Observaciones Detección: </b><textarea rows="3" cols="30" wrap="soft" name="obs_deteccion"></textarea></p>
-	<p><b>Observaciones Extinción: </b><textarea rows="3" cols="30" wrap="soft" name="obs_extincion"></textarea></p>
-	<p><b>Observaciones Batería: </b><textarea rows="3" cols="30" wrap="soft" name="obs_bateria"></textarea></p>
+	<p><b>Observaciones: </b><textarea rows="3" cols="30" maxlength="132" wrap="soft" name="observaciones"></textarea></p>
 ';
 
 // Comprobamos que las firmas están almacenadas y que se ha rellenado la fecha de próxima revisión

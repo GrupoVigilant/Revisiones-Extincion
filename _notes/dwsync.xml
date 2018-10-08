@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
 <file name="sesion.php" server="srv-datos/pruebasextincion/" local="131822460000000000" remote="131822460000000000" Dst="2" />
-<file name="conexion.php" server="srv-datos/pruebasextincion/" local="131829532827146932" remote="131829537000000000" Dst="2" />
+<file name="conexion.php" server="srv-datos/pruebasextincion/" local="131832140552754865" remote="131831963400000000" Dst="2" />
 <file name="iniciar_revision_offline.php" server="srv-datos/pruebasextincion/" local="131819001081099248" remote="131822460000000000" Dst="2" />
 <file name="login.php" server="srv-datos/pruebasextincion/" local="131775790150229105" remote="131822463600000000" Dst="2" />
 <file name="index.php" server="srv-datos/pruebasextincion/" local="131769766514489116" remote="131822463600000000" Dst="2" />
 <file name="PHPWord.php" server="srv-datos/pruebasextincion/" local="131746104000000000" remote="131746104000000000" Dst="2" />
 <file name="class.phpmailer.php" server="srv-datos/pruebasextincion/" local="131747832000000000" remote="131747832000000000" Dst="2" />
 <file name="class.smtp.php" server="srv-datos/pruebasextincion/" local="131747832000000000" remote="131747832000000000" Dst="2" />
-<file name="enviar_revision.php" server="srv-datos/pruebasextincion/" local="131832130094511230" remote="131832129600000000" Dst="2" />
-<file name="finalizar_revision.php" server="srv-datos/pruebasextincion/" local="131831917607185739" remote="131831917800000000" Dst="2" />
+<file name="enviar_revision.php" server="srv-datos/pruebasextincion/" local="131834522707475060" remote="131834522400000000" Dst="2" />
+<file name="finalizar_revision.php" server="srv-datos/pruebasextincion/" local="131834527926439947" remote="131834527800000000" Dst="2" />
 <file name="iniciar_revision.php" server="srv-datos/pruebasextincion/" local="131831173118132149" remote="131831172600000000" Dst="2" />
 <file name="iniciar_revision.php" server="srv-datos/extincion/" local="131829388800000000" remote="131829388800000000" Dst="2" />
 <file name="sesion.php" server="srv-datos/extincion/" local="131822460000000000" remote="131822460000000000" Dst="2" />

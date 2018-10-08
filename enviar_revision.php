@@ -13,7 +13,7 @@ function write_log($cadena,$tipo){
 require_once('sesion.php');
 require_once('conexion.php');
 require_once('PHPWord.php'); 
-require_once ('PHPWord-develop/bootstrap.php');
+//require_once ('PHPWord-develop/bootstrap.php');
 
 
 $tituloPag = 'Enviar Revisión';
@@ -23,18 +23,14 @@ include('class.phpmailer.php');
 include('class.smtp.php');
 
 // Recibimos los valores POST
-$id_cliente = $_POST['id_cliente'];
-$id_revision = $_POST['id_revision'];
-$tipo_revision = $_POST['tipo_revision'];
-$fechaProx = $_POST['fecha_prox'];
-$email = $_POST['email'];
-$nombre_firma = $_POST['nombre_firma'];
-$obs_extintor = $_POST['obs_extintor'];
-$obs_bie = $_POST['obs_bie'];
-$obs_deteccion = $_POST['obs_deteccion'];
-$obs_extincion = $_POST['obs_extincion'];
-$obs_bateria = $_POST['obs_bateria'];
-$certificado = $_POST['certificado'];
+$id_cliente = $_GET['id_cliente'];
+$id_revision = $_GET['id_revision'];
+$tipo_revision = $_GET['tipo_revision'];
+$fechaProx = $_GET['fecha_prox'];
+$email = $_GET['email'];
+$nombre_firma = $_GET['nombre_firma'];
+$observaciones = $_GET['observaciones'];
+$certificado = $_GET['certificado'];
 
 // Cambiamos el formato de fecha de Próxima Revisión
 $fechaProx = date('d/m/Y',strtotime($fechaProx));
@@ -144,27 +140,24 @@ if ($subtipo == 1 || $subtipo == 2 || $subtipo == 5){
 					$documento->setValue('emplazamiento', prepara_texto($emplazamiento));
 					$documento->setValue('tecnico', prepara_texto($tecnico));
 					$documento->setValue('prox_revision', prepara_texto($fechaProx));
-					write_log('Página '.$tituloPag.' - Documento - nombre_titular='.$nombre_cliente.' - direccion='.$direccion.' - emplazamiento='.$emplazamiento.' - tecnico='.$tecnico,'Info');
+					$documento->setValue('observaciones', prepara_texto($observaciones));
+					
+					write_log('Página '.$tituloPag.' - Documento - nombre_titular='.$nombre_cliente.' - direccion='.$direccion.' - emplazamiento='.$emplazamiento.' - tecnico='.$tecnico.' - observaciones='.$observaciones,'Info');
 
 					if($subtipo==1){
 						$tRevision = 'Extintor';
-						$documento->setValue('observaciones', prepara_texto($obs_extintor));
 						write_log('Página '.$tituloPag.' - Documento - obs_extintor='.$obs_extintor,'Info');
 					} else if ($subtipo==2){
 						$tRevision = 'BIE';
-						$documento->setValue('observaciones', prepara_texto($obs_bie));
 						write_log('Página '.$tituloPag.' - Documento - obs_bie='.$obs_bie,'Info');
 					} else if ($subtipo==3){
 						$tRevision = 'Detección';
-						$documento->setValue('observaciones', prepara_texto($obs_deteccion));
 						write_log('Página '.$tituloPag.' - Documento - obs_bie='.$obs_bie,'Info');
 					} else if ($subtipo==4){
 						$tRevision = 'Extinción';
-						$documento->setValue('observaciones', prepara_texto($obs_extincion));
 						write_log('Página '.$tituloPag.' - Documento - obs_extincion='.$obs_extincion,'Info');
 					} else if ($subtipo==5){
 						$tRevision = 'Batería Extinción';
-						$documento->setValue('observaciones', prepara_texto($obs_bateria));
 						write_log('Página '.$tituloPag.' - Documento - obs_bateria='.$obs_bateria,'Info');
 					} else {
 						$tRevision = '';
